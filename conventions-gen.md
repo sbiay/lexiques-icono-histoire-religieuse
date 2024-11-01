@@ -4,27 +4,29 @@ title: Conventions d'écriture
 
 Plan :
 
-1. [Majuscules](#t1)
-	1. [Événements](#t1-1)
-	2. [Personnages bibliques](#t1-2)
-	3. [Œuvres d'art](#t1-3)
-	4. [Œuvres littéraires](#t1-4)
-2. [Italique](#t2)
-	1. [Titres](#t2-1)
-3. [Linguistique](#t3)
-4. [Ressources](#t4)
+1. [Chronologie](#t1)
+	1. [Périodes historiques](#t1-1)
+	2. [Événements historiques](#t1-2)
+2. [Personnes](#t2)
+	1. [Personnages bibliques, saints](#t2-1)
+3. [Scènes, sujets iconographiques](#t3)
+4. [Œuvres littéraires](#t4)
+	1. [Titres authentiques](#t4-1)
+	2. [Titres forgés](#t4-2)
+5. [Œuvres d'art](#t5)
+6. [Linguistique](#t6)
+7. [Ressources](#t7)
 
 [comment]: <> (FINET)
 
 
+
 <a id='t1'/>
-
-
-<a id='t1-1'/>
-
 
 # Chronologie
 
+
+<a id='t1-1'/>
 
 ## Périodes historiques
 
@@ -37,6 +39,8 @@ Les noms de périodes prennent une majuscule :
 **NB** : Le Moyen Âge s'écrit sans trait d'union.
 
 
+<a id='t1-2'/>
+
 ## Événements historiques
 
 **Les événements historiques** ainsi que les événements de l'**histoire biblique** prennent une majuscule : Création, Exode, Enfance, Passion, Ascension, Jugement dernier.
@@ -46,11 +50,13 @@ Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majus
 > Le péché originel est l'épisode central de la Chute.\
  Seul Matthieu relate l'adoration des Mages.
 
-<a id='t1-2'/>
 
+<a id='t2'/>
 
 # Personnes
 
+
+<a id='t2-1'/>
 
 ## Personnages bibliques, saints
 
@@ -68,6 +74,8 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;\
 - Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.\
 
+
+<a id='t3'/>
 
 # Scènes, sujets iconographiques
 
@@ -87,11 +95,13 @@ Certains épisodes bibliques possèdent un nom propre, et prennent toujours une 
 - Transfiguration ;
 - Visitation.
 
-<a id='t1-3'/>
 
+<a id='t4'/>
 
 # Œuvres littéraires
 
+
+<a id='t4-1'/>
 
 ## Titres authentiques
 
@@ -111,6 +121,8 @@ On peut déterminer si l'article fait partie ou non du titre en consultant des r
 - Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
 
 
+<a id='t4-2'/>
+
 ## Titres forgés
 
 Les titres forgés des œuvres médiévales doivent s'écrire **en caractères romains** et non pas en italique<!--F. Möhren-->.
@@ -120,6 +132,8 @@ C'est le cas de la Bible et des **livres bibliques** en général :
  J'ai lu l'Évangile selon saint Matthieu.\
  J'ai lu l'Histoire ancienne jusqu'à César.
 
+
+<a id='t5'/>
 
 # Œuvres d'art
 
@@ -138,8 +152,7 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
 **NB** : Dans les derniers cas, bible et évangile ne désignent pas des œuvres littéraires, mais des objets physiques. Ils s'écrivent donc sans majuscule.
 
 
-<a id='t1-4'/>
-
+<a id='t6'/>
 
 # Linguistique
 
@@ -154,8 +167,7 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
 **Mot**, s'écrit entre guillemets<!--Littré-->. *Le mot « cheval »*.
 
 
-<a id='t4'/>
-
+<a id='t7'/>
 
 # Ressources
 
