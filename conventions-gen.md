@@ -1,5 +1,7 @@
 ---
 title: Conventions d'écriture
+author: Sébastien Biay
+date: 2024-2025
 ---
 
 Plan :
@@ -38,6 +40,10 @@ Les noms de périodes prennent une majuscule :
 - Renaissance.
 
 **NB** : Le Moyen Âge s'écrit sans trait d'union.
+
+L'ajout d'un qualificatif se fait sans majuscule :
+
+> J'ai étudié le haut Moyen Âge.
 
 
 <a id='t1-2'/>
@@ -160,7 +166,7 @@ Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent u
 
 > J'ai étudié le Livre de Kells.\
  J'ai éudié le Psautier de Stuttgart.\
- J'ai étudié l'Émail Plantagenêt<!--convention non suivie sur le web-->.\
+ J'ai étudié l'Émail Plantagenêt<!--convention non suivie sur le web-->.
 
 En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis, les substantifs restent en bas de casse :
 
