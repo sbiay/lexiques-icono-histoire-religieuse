@@ -49,7 +49,9 @@ Les substantifs de la liste suivante prennent une majuscule :
 
 Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule :
 
-> La scène du Massacre des Innocents est peinte au premier registre ; l'Adoration des Mages orne le tympan du portail ; le Jugement dernier de Notre-Dame de Paris*.
+> La scène du Massacre des Innocents est peinte au premier registre.\
+> L'Adoration des Mages orne le tympan du portail.\
+> Le Jugement dernier de Notre-Dame de Paris…
 
 **NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits. *La scène représente le baptême du Christ*. 
 Sinon, on peut écrire : *la scène du Baptême du Christ*.
