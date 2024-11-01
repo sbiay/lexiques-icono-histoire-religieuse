@@ -17,55 +17,59 @@ Plan :
 [comment]: <> (FINET)
 
 
-
 <a id='t1'/>
-
 
 
 <a id='t1-1'/>
 
-## Événements
+
+# Événements, périodes
 
 **Les événements historiques** ainsi que les événements de l'**histoire biblique** prennent une majuscule : Création, Exode, Enfance, Passion, Ascension, Jugement dernier.
 
-Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
+Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
 
 > Le péché originel est l'épisode central de la Chute.\
-> Seul Matthieu relate l'adoration des Mages.
+ Seul Matthieu relate l'adoration des Mages.
 
 <a id='t1-2'/>
+
+
+# Personnes
+
 
 ## Personnages bibliques
 
 Les substantifs de la liste suivante prennent une majuscule :
 
-- Innocents : *le massacre des Innocents* ;
-- Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;\
-- Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;\
-- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.\
+- Innocents : *le massacre des Innocents* ;
+- Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;\
+- Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;\
+- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.\
 
 
-## Scènes, sujets iconographiques
+# Scènes, sujets iconographiques
 
-Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule :
+Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule :
 
 > La scène du Massacre des Innocents est peinte au premier registre.\
-> L'Adoration des Mages orne le tympan du portail.\
-> Le Jugement dernier de Notre-Dame de Paris…
+ L'Adoration des Mages orne le tympan du portail.\
+ Le Jugement dernier de Notre-Dame de Paris…
 
-**NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits. *La scène représente le baptême du Christ*. 
-Sinon, on peut écrire : *la scène du Baptême du Christ*.
+**NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits. *La scène représente le baptême du Christ*. Sinon, on peut écrire : *la scène du Baptême du Christ*.
 
-Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
-l'Annonciation,
-la Crucifixion,
-la Pentecôte,
-la Transfiguration,
-la Visitation.
+Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
+
+- Annonciation ;
+- Crucifixion ;
+- Pentecôte ;
+- Transfiguration ;
+- Visitation.
 
 <a id='t1-3'/>
 
-## Œuvres d'art
+
+# Œuvres d'art
 
 Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
 *le Livre de Kells, le Psautier de Stuttgart, l'Émail Plantagenêt*<!--convention non suivie sur le web-->.\
@@ -74,26 +78,39 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
 
 <a id='t1-4'/>
 
-## Œuvres littéraires
 
-### Titres
-
-Si l'article fait partie intégrante du titre de l'œuvre, il prend une majuscule : *Les misérables, Le rouge et le noir, La divine comédie*<!--DataBnF--> ; en revanche on écrira :
-*la Bible*<!--DataBnF-->,
-*les Évangiles*<!--Robert-->,
-*la Châtelaine de Vergi*<!--DataBnF-->.
-
-Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr).\
-Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).\
+# Œuvres littéraires
 
 
-### Titres forgés
+## Titres authentiques
 
-**Les titres forgés** des œuvres médiévales doivent s'écrire en caractères romains (pas en italique) : l'Histoire ancienne jusqu'à César<!--F. Möhren-->.
+Le titre d'une œuvre littéraire doit être écrit **en italique** ou souligné dans une composition manuscrite.
 
+> J'ai lu les *Confessions* de saint Augustin.
+
+Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une majuscule :
+
+> J'ai lu *Les misérables*<!--DataBnF-->.\
+ J'ai lu *Le rouge et le noir*<!--DataBnF-->.\
+ J'ai lu *La divine comédie*<!--DataBnF-->
+
+On peut déterminer si l'article fait partie ou non du titre en consultant des ressources de référence : 
+
+- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) ;
+- Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
+
+
+## Titres forgés
+
+**Les titres forgés** des œuvres médiévales doivent s'écrire **en caractères romains** et non pas en italique<!--F. Möhren-->. C'est le cas de la Bible et des **livres bibliques** en général :
+
+> J'ai lu la Bible.\
+ J'ai lu l'Évangile selon saint Matthieu.\
+ J'ai lu l'Histoire ancienne jusqu'à César.
 
 
 <a id='t2'/>
+
 
 # Italique
 
@@ -102,6 +119,7 @@ Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://por
 
 
 <a id='t3'/>
+
 
 # Linguistique
 
@@ -117,6 +135,7 @@ Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://por
 
 
 <a id='t4'/>
+
 
 # Ressources
 
