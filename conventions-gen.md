@@ -8,7 +8,8 @@ Plan :
 	1. [Périodes historiques](#t1-1)
 	2. [Événements historiques](#t1-2)
 2. [Personnes](#t2)
-	1. [Personnages bibliques, saints](#t2-1)
+	1. [Saints](#t2-1)
+	2. [Personnages bibliques](#t2-2)
 3. [Scènes, sujets iconographiques](#t3)
 4. [Œuvres littéraires](#t4)
 	1. [Titres authentiques](#t4-1)
@@ -43,9 +44,16 @@ Les noms de périodes prennent une majuscule :
 
 ## Événements historiques
 
-**Les événements historiques** ainsi que les événements de l'**histoire biblique** prennent une majuscule : Création, Exode, Enfance, Passion, Ascension, Jugement dernier.
+Les événements historiques ainsi que les événements de l'**histoire biblique**, notamment ceux relatant l'histoire du Christ, prennent une majuscule :
 
-Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
+- Création ;
+- Exode ;
+- Enfance ;
+- Passion ;
+- Ascension ;
+- Jugement dernier.
+
+En revanche, les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
 
 > Le péché originel est l'épisode central de la Chute.\
  Seul Matthieu relate l'adoration des Mages.
@@ -58,7 +66,7 @@ Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majus
 
 <a id='t2-1'/>
 
-## Personnages bibliques, saints
+## Saints
 
 Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne ; en revanche, il prend une majuscule lorsqu'il compose un **vocable** : 
 
@@ -67,12 +75,17 @@ Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne ; en r
 
 **NB** : un trait d'union relie les parties d'un vocable.
 
+
+<a id='t2-2'/>
+
+## Personnages bibliques
+
 Les substantifs de la liste suivante prennent une majuscule :
 
 - Innocents : *le massacre des Innocents* ;
-- Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;\
-- Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;\
-- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.\
+- Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;
+- Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;
+- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.
 
 
 <a id='t3'/>
@@ -85,7 +98,13 @@ Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule�
  L'Adoration des Mages orne le tympan du portail.\
  Le Jugement dernier de Notre-Dame de Paris…
 
-**NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits. *La scène représente le baptême du Christ*. Sinon, on peut écrire : *la scène du Baptême du Christ*.
+**NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits : 
+
+> La scène représente le baptême du Christ.
+
+Sinon, on peut écrire :
+
+> La scène du Baptême du Christ…
 
 Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
 
