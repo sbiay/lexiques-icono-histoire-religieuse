@@ -23,7 +23,21 @@ Plan :
 <a id='t1-1'/>
 
 
-# Événements, périodes
+# Chronologie
+
+
+## Périodes historiques
+
+Les noms de périodes prennent une majuscule :
+
+- Antiquité tardive ;
+- Moyen Âge ;
+- Renaissance.
+
+**NB** : Le Moyen Âge s'écrit sans trait d'union.
+
+
+## Événements historiques
 
 **Les événements historiques** ainsi que les événements de l'**histoire biblique** prennent une majuscule : Création, Exode, Enfance, Passion, Ascension, Jugement dernier.
 
@@ -38,7 +52,14 @@ Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majus
 # Personnes
 
 
-## Personnages bibliques
+## Personnages bibliques, saints
+
+Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne ; en revanche, il prend une majuscule lorsqu'il compose un **vocable** : 
+
+> J'ai lu l'Évangile selon saint Matthieu.\
+ La construction de l'église Saint-Pierre.
+
+**NB** : un trait d'union relie les parties d'un vocable.
 
 Les substantifs de la liste suivante prennent une majuscule :
 
@@ -69,16 +90,6 @@ Certains épisodes bibliques possèdent un nom propre, et prennent toujours une 
 <a id='t1-3'/>
 
 
-# Œuvres d'art
-
-Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
-*le Livre de Kells, le Psautier de Stuttgart, l'Émail Plantagenêt*<!--convention non suivie sur le web-->.\
-En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis, ils restent en bas de casse : *un psautier parisien, une bible latine, un livre d'évangiles*.
-
-
-<a id='t1-4'/>
-
-
 # Œuvres littéraires
 
 
@@ -102,23 +113,32 @@ On peut déterminer si l'article fait partie ou non du titre en consultant des r
 
 ## Titres forgés
 
-**Les titres forgés** des œuvres médiévales doivent s'écrire **en caractères romains** et non pas en italique<!--F. Möhren-->. C'est le cas de la Bible et des **livres bibliques** en général :
+Les titres forgés des œuvres médiévales doivent s'écrire **en caractères romains** et non pas en italique<!--F. Möhren-->.
+C'est le cas de la Bible et des **livres bibliques** en général :
 
 > J'ai lu la Bible.\
  J'ai lu l'Évangile selon saint Matthieu.\
  J'ai lu l'Histoire ancienne jusqu'à César.
 
 
-<a id='t2'/>
+# Œuvres d'art
+
+Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
+
+> J'ai étudié le Livre de Kells.\
+ J'ai éudié le Psautier de Stuttgart.\
+ J'ai étudié l'Émail Plantagenêt<!--convention non suivie sur le web-->.\
+
+En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis, les substantifs restent en bas de casse :
+
+> J'ai étudié un psautier parisien.\
+ J'ai étudié une bible latine.\
+ J'ai étudié un livre d'évangiles.
+
+**NB** : Dans les derniers cas, bible et évangile ne désignent pas des œuvres littéraires, mais des objets physiques. Ils s'écrivent donc sans majuscule.
 
 
-# Italique
-
-
-<a id='t2-1'/>
-
-
-<a id='t3'/>
+<a id='t1-4'/>
 
 
 # Linguistique
