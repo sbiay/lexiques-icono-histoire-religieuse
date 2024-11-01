@@ -30,7 +30,7 @@ Plan :
 
 Les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
 
-> Le péché originel est l'épisode central de la Chute.
+> Le péché originel est l'épisode central de la Chute.\
 > Seul Matthieu relate l'adoration des Mages.
 
 <a id='t1-2'/>
