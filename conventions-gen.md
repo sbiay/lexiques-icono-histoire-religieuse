@@ -104,6 +104,14 @@ Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule�
  L'Adoration des Mages orne le tympan du portail.\
  Le Jugement dernier de Notre-Dame de Paris…
 
+Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
+
+- Annonciation ;
+- Crucifixion ;
+- Pentecôte ;
+- Transfiguration ;
+- Visitation.
+
 **NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes en tant que récits : 
 
 > La scène représente le baptême du Christ.
@@ -112,13 +120,8 @@ Sinon, on peut écrire :
 
 > La scène du Baptême du Christ…
 
-Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
+**NB** : les formules *le sujet de* ou *le thème de* sont souvent inutiles : plutôt que *sur la voûte est peint le sujet du péché originel*, écrire : *sur la voûte est peint le Péché originel*.
 
-- Annonciation ;
-- Crucifixion ;
-- Pentecôte ;
-- Transfiguration ;
-- Visitation.
 
 
 <a id='t4'/>
@@ -154,14 +157,16 @@ Les titres forgés des œuvres médiévales doivent s'écrire **en caractères r
 C'est le cas de la Bible et des **livres bibliques** en général :
 
 > J'ai lu la Bible.\
+ J'ai lu l'Ancien Testament.\
  J'ai lu l'Évangile selon saint Matthieu.\
  J'ai lu l'Histoire ancienne jusqu'à César.
 
 
 <a id='t5'/>
 
-# Œuvres d'art
+# Œuvres d'art médiéval
 
+Les titres des oeuvres d'art médiéval sont systématiquement forgés. On ne les écrit donc pas en italique
 Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
 
 > J'ai étudié le Livre de Kells.\
