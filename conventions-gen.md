@@ -48,9 +48,16 @@ L'ajout d'un qualificatif se fait sans majuscule :
 
 <a id='t1-2'/>
 
-## Événements historiques
+## Evénements historiques
 
-Les événements historiques ainsi que les événements de l'**histoire biblique**, notamment ceux relatant l'histoire du Christ, prennent une majuscule :
+Le nom commun d'un événements historiques ne prend pas de majuscule :
+
+- la guerre de Cent Ans ;<!--ImpNat-->
+- les guerres de Religion<!--ImpNat-->.
+
+## Histoire biblique
+
+Les événements de l'**histoire biblique**, notamment ceux relatant l'histoire du Christ, prennent une majuscule :
 
 - Création ;
 - Exode ;
@@ -67,7 +74,14 @@ En revanche, les épisodes bibliques envisagés *en tant que récit* ne prennent
 
 <a id='t2'/>
 
+# Géographie
+
+La partie d'un ensemble géographique désignée par un point cardinal prend une majuscule : *le Sud Mayenne, l'Italie du Nord*.
+
+
 # Personnes
+
+## Peuples
 
 
 <a id='t2-1'/>
