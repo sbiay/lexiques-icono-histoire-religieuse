@@ -50,7 +50,8 @@ L'ajout d'un qualificatif se fait sans majuscule :
 
 ## Evénements historiques
 
-Le nom commun d'un événements historiques ne prend pas de majuscule :
+Le nom commun d'un événement historique (guerre, traité, etc.) ne prend pas de majuscule ; on dit qu'il se compose *en bas de casse*.
+En revanche le **déterminatif** qui le suit est en majuscule :
 
 - la guerre de Cent Ans ;<!--ImpNat-->
 - les guerres de Religion<!--ImpNat-->.
@@ -59,12 +60,12 @@ Le nom commun d'un événements historiques ne prend pas de majuscule :
 
 Les événements de l'**histoire biblique**, notamment ceux relatant l'histoire du Christ, prennent une majuscule :
 
-- Création ;
-- Exode ;
-- Enfance ;
-- Passion ;
-- Ascension ;
-- Jugement dernier.
+- la Création ;
+- l'Exode ;
+- l'Enfance ;
+- la Passion ;
+- l'Ascension ;
+- le Jugement dernier.
 
 En revanche, les épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule : 
 
