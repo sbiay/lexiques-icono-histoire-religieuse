@@ -82,8 +82,12 @@ La partie d'un ensemble géographique désignée par un point cardinal prend une
 
 # Personnes
 
-## Peuples
+## Dynastie
 
+Les noms de dynasties prennent une majuscule :
+
+- les Mérovingiens
+- les Carolingiens
 
 <a id='t2-1'/>
 
@@ -96,6 +100,9 @@ Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne ; en r
 
 **NB** : un trait d'union relie les parties d'un vocable.
 
+## Peuples
+
+<!--compléter-->
 
 <a id='t2-2'/>
 
