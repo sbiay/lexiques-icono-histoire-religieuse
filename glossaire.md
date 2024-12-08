@@ -1,16 +1,32 @@
 ---
-title: Lexique d'iconographie et d'histoire religieuse médiévale
+title: Glossaire d'iconographie et d'histoire religieuse médiévale
 author: Sébastien Biay
 date: 2^nd^ semestre 2023-2024
 ---
 
+Plan :
+
+1. [Glossaire](#t1)
+	1. [Périodes historiques](#t1-1)
+	2. [Techniques artistiques](#t1-2)
+	3. [Architecture, mobilier et institutions](#t1-3)
+		1. [Monuments funéraires](#t1-3-1)
+		2. [Lieux de culte](#t1-3-2)
+		3. [Liturgie](#t1-3-3)
+	4. [Iconographie](#t1-4)
+	5. [Doctrine chrétienne](#t1-5)
+	6. [Personnages, créatures, lieux](#t1-6)
+	7. [Scènes bibliques](#t1-7)
+
 [comment]: <> (FINET)
 
 
-# Glossaire
+<a id='t1'/>
 
 
-## Périodes historiques
+<a id='t1-1'/>
+
+# Périodes historiques
 
 **NB** : les noms de périodes prennent une majuscule.
 
@@ -18,29 +34,35 @@ date: 2^nd^ semestre 2023-2024
 
 **Moyen Âge** : période située entre l'Antiquité et la Renaissance. **NB** : s'écrit sans trait d'union.
 
-**siècle**, n. m. : période de cent ans dont le début est déterminé arbitrairement, en particulier par rapport à l'ère chrétienne. **NB** : Les siècles doivent être écrits en chiffres romains. *Le IVe siècle commence en l'an 301 et s'achève en l'an 400*.
+**siècle**, n. m. : période de cent ans dont le début est déterminé arbitrairement, en particulier par rapport à l'ère chrétienne. **NB** : Les siècles doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
 
 
-## Techniques artistiques
+<a id='t1-2'/>
 
-**enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
+# Techniques artistiques
 
-**mosaïque**, n. f. : technique de peinture par assemblage de tesselles, petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
+**enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
 
-**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
+**mosaïque**, n. f. : technique de peinture par assemblage de tesselles, petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
+
+**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
 
 [comment1]: <> (Bég. Dessin 1978, d'après CNRTL.)
 
 
-## Architecture, mobilier et institutions
+<a id='t1-3'/>
+
+# Architecture, mobilier et institutions
 
 
-[comment2]: <> (### Institutions)
+[comment2]: <> (## Institutions)
 
 [comment3]: <> (**abbaye**, n. f. : établissement religieux placé sous la direction d'un abbé ou d'une abbesse.)
 
 
-### Monuments funéraires
+<a id='t1-3-1'/>
+
+## Monuments funéraires
 
 ***arcosolium***, n. m. (lat.) : niche surmontée d'une voûte et flanquée de colonnes, servant de lieu d'inhumation ou de mobilier liturgique.
 
@@ -55,7 +77,9 @@ date: 2^nd^ semestre 2023-2024
 **stèle**, n. f. : monument monolithe ayant souvent la forme d'une dalle placée en position verticale, parfois orné de sculptures ou de peintures, sur lequel sont gravées des inscriptions parfois commémoratives. Elles sont également employées dans d'autres contextes que funéraire (événements politiques, textes législatifs).
 
 
-### Lieux de culte
+<a id='t1-3-2'/>
+
+## Lieux de culte
 
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
 
@@ -71,12 +95,19 @@ date: 2^nd^ semestre 2023-2024
 
 **vocable**, n. m. : à propos d'une église, personne sous la protection (sous le « patronage ») de laquelle est placée l'église. *L'église Saint-Pierre*.
 
-### Liturgie
 
-**affusion**, n. f. : action de verser un liquide sur un corps quelconque<!--CNRTL-->. *Le baptême par affusion remplace le baptême par immersion*.
+<a id='t1-3-3'/>
+
+## Liturgie
+
+**affusion**, n. f. : action de verser un liquide sur un corps quelconque<!--CNRTL-->. *Le baptême par affusion remplace le baptême par immersion*.
+
+**vigile**, n. f. : jour précédant une fête, pendant lequel on observait généralement l'abstinence et le jeûne. *Vigile de Noël, de Pâques*.<!--CNRTL-->
 
 
-## Iconographie
+<a id='t1-4'/>
+
+# Iconographie
 
 **auréole**, n. f. (lat. chrét. *aureola*, couronne) : cercle lumineux dont les artistes entourent généralement la tête des saints. Synonyme : nimbe.
 
@@ -89,7 +120,9 @@ date: 2^nd^ semestre 2023-2024
 **registre**, n. m. : par analogie avec la musique (registre grave, médium ou aigu), partie d'une image que l'on peut subdiviser dans le sens vertical. *Registre supérieur, registre médian, registre inférieur*.
 
 
-## Doctrine chrétienne
+<a id='t1-5'/>
+
+# Doctrine chrétienne
 
 **apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
@@ -103,7 +136,7 @@ date: 2^nd^ semestre 2023-2024
 
 **clergé**, n. m. : ensemble du personnel composant l'Église.
 
-**concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).
+**concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).
 
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
@@ -130,11 +163,11 @@ Sens littéral : bonne nouvelle ;
 
 **liturgie**, n. f. : ensemble réglé et ordre des cérémonies et des prières composant le culte public officiellement institué par l'Église.
 
-**messie**, n. m. : celui qui a reçu une onction sacrée (he. *mashiah*, gr. *christos*) symbole d'une mission d'origine divine. Les significations différent selon les textes de l’Ancien Testament : roi, prophète, grand prêtre. S'emploie seul avec une maj. (*le Messie*), sans maj. avec un qualificatif (*le messie des juifs*).
+**messie**, n. m. : celui qui a reçu une onction sacrée (he. *mashiah*, gr. *christos*) symbole d'une mission d'origine divine. Les significations différent selon les textes de l'Ancien Testament : roi, prophète, grand prêtre. S'emploie seul avec une maj. (*le Messie*), sans maj. avec un qualificatif (*le messie des juifs*).
 
 **néotestamentaire**, adj. : relatif au Nouveau Testament.
 
-**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien. 
+**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien. 
 
 **patriarche**, n. m. : personnage de l'Ancien Testament, ancêtre des tribus d'Israël, d'une grande longévité. Abraham, Jacob, Joseph, Moïse principalement. La définition est souple : on trouve parfois que la lignée des patriarches commence avec Adam.
 
@@ -160,7 +193,9 @@ Sens littéral : bonne nouvelle ;
 **vétérotestamentaire**, adj. : relatif à l'Ancien Testament.
 
 
-## Personnages, créatures, lieux
+<a id='t1-6'/>
+
+# Personnages, créatures, lieux
 
 *Ne sont listés que les noms pouvant présentant des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
 
@@ -174,13 +209,13 @@ Sens littéral : bonne nouvelle ;
 
 **Dieu** : en tant que nom propre, il faut l'écrire avec une majuscule.
 
-**Esprit saint** : personne composant la Trinité généralement représentée sous la forme d'une colombe. Autre orthographe : *le Saint-Esprit*.
+**Esprit saint** : personne composant la Trinité généralement représentée sous la forme d'une colombe. Autre orthographe : *le Saint-Esprit*.
 
 **Jérusalem** : capitale historique du royaume des Juifs, lieu de la Passion du Christ.
 
 **Jésus-Christ**, prend un trait d'union.
 
-c# Vérifié dans les consignes typo de l'imprimerie nationale, parmi les abréviations : av. J.-C.
+[comment8]: <> (Vérifié dans les consignes typo de l'imprimerie nationale, parmi les abréviations : av. J.-C.)
 
 **Melchisédech** : roi-prêtre célébrant devant Abraham une bénédiction avec le pain et le vin, prototype de la messe chrétienne ; Abraham lui verse la dîme, redevance des laïcs à l'Église.
 
@@ -188,12 +223,14 @@ c# Vérifié dans les consignes typo de l'imprimerie nationale, parmi les abrév
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
 
-**romain** : en tant que nom de peuple, prend une majuscule : *les Romains* ; n'en prend pas en tant qu'adjectif : *l'empire romain*.
+**romain** : en tant que nom de peuple, prend une majuscule : *les Romains* ; n'en prend pas en tant qu'adjectif : *l'empire romain*.
 
 **Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée par les théologiens (Irénée de Lyon, Jérôme de Stridon) comme les symboles des évangélistes. *Les quatre Vivants*.
 
 
-## Scènes bibliques
+<a id='t1-7'/>
+
+# Scènes bibliques
 
 **Agonie à Gethsémani** : également appelée la prière du Christ à Gethsémani, ou au jardin (ou au mont) des Oliviers.
 
