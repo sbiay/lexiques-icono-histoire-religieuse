@@ -11,3 +11,5 @@ et passer en revue les ornements pertinents :
 - ruban
 - pirouettes
 - oves et fers de lance (ou dards)
+
+**échine**, n. f. : moulure séparant la corbeille de l'abaque ou du tailloir d'un chapiteau<!--Thomas modifiée-->.
