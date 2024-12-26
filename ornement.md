@@ -12,4 +12,6 @@ et passer en revue les ornements pertinents :
 - pirouettes
 - oves et fers de lance (ou dards)
 
+Pour des exemples d'ornements médiévaux : utiliser les catégories du TIMEL dans Romane.
+
 **échine**, n. f. : moulure séparant la corbeille de l'abaque ou du tailloir d'un chapiteau<!--Thomas modifiée-->.
