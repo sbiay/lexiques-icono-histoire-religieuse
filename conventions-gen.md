@@ -157,7 +157,7 @@ Sinon, on peut écrire :
 
 Le titre d'une œuvre littéraire doit être écrit **en italique** ou souligné dans une composition manuscrite.
 
-> J'ai lu les *Confessions* de saint Augustin.
+> J'ai lu les *Confessions* de saint Augustin<!--biblissima-->.
 
 Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une majuscule :
 
@@ -186,6 +186,12 @@ C'est le cas de la Bible et des **livres bibliques** en général :
 
 <a id='t5'/>
 
+# Styles
+
+Les noms de styles s'écrivent en bas de casse :
+
+> J'ai étudié l'art roman.
+
 # Œuvres d'art médiéval
 
 Les titres des oeuvres d'art médiéval sont systématiquement forgés. On ne les écrit donc pas en italique
@@ -202,6 +208,20 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
  J'ai étudié un livre d'évangiles.
 
 **NB** : Dans les derniers cas, bible et évangile ne désignent pas des œuvres littéraires, mais des objets physiques. Ils s'écrivent donc sans majuscule.
+
+# Lieux de culte
+
+## Vocable
+
+Le mot *saint* prend une majuscule lorsqu'il compose un **vocable** : 
+
+> La construction de l'église Saint-Pierre.
+
+**NB** : un trait d'union relie les parties d'un vocable.
+
+Un vocable n'est pas précédé d'une préposition. On n'écrit pas *l'abbaye de Saint-Denis conserve les tombeaux de rois de France* ; on écrit :
+
+> L'abbaye Saint-Denis conserve les tombeaux de rois de France.
 
 
 <a id='t6'/>
