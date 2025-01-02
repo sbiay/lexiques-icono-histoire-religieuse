@@ -45,6 +45,9 @@ L'ajout d'un qualificatif se fait sans majuscule :
 
 > J'ai étudié le haut Moyen Âge.
 
+**Les siècles** doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
+
+
 
 <a id='t1-2'/>
 
@@ -113,7 +116,14 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Innocents : *le massacre des Innocents* ;
 - Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;
 - Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;
-- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149-->.
+- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
+- Vivants (symboles des évangélistes).
+
+En revanche, les substantifs désignant la plupart des types de personnages bibliques s'écrivent en bas de casse :
+apôtres,
+évangélistes,
+prophètes,
+etc.
 
 
 <a id='t3'/>
