@@ -8,17 +8,24 @@ Plan :
 
 1. [Chronologie](#t1)
 	1. [Périodes historiques](#t1-1)
-	2. [Événements historiques](#t1-2)
-2. [Personnes](#t2)
-	1. [Saints](#t2-1)
-	2. [Personnages bibliques](#t2-2)
-3. [Scènes, sujets iconographiques](#t3)
-4. [Œuvres littéraires](#t4)
-	1. [Titres authentiques](#t4-1)
-	2. [Titres forgés](#t4-2)
-5. [Œuvres d'art](#t5)
-6. [Linguistique](#t6)
-7. [Ressources](#t7)
+	2. [Evénements historiques](#t1-2)
+	3. [Histoire biblique](#t1-3)
+2. [Géographie](#t2)
+3. [Personnes](#t3)
+	1. [Dynastie](#t3-1)
+	2. [Saints](#t3-2)
+	3. [Peuples](#t3-3)
+	4. [Personnages bibliques](#t3-4)
+4. [Scènes, sujets iconographiques](#t4)
+5. [Œuvres littéraires](#t5)
+	1. [Titres authentiques](#t5-1)
+	2. [Titres forgés](#t5-2)
+6. [Styles](#t6)
+7. [Œuvres d'art médiéval](#t7)
+8. [Lieux de culte](#t8)
+	1. [Vocable](#t8-1)
+9. [Linguistique](#t9)
+10. [Ressources](#t10)
 
 [comment]: <> (FINET)
 
@@ -48,16 +55,18 @@ L'ajout d'un qualificatif se fait sans majuscule :
 **Les siècles** doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
 
 
-
 <a id='t1-2'/>
 
 ## Evénements historiques
 
-Le nom commun d'un événement historique (guerre, traité, etc.) ne prend pas de majuscule ; on dit qu'il se compose *en bas de casse*.
-En revanche le **déterminatif** qui le suit est en majuscule :
+Le nom commun d'un événement historique (guerre, traité, etc.) ne prend pas de majuscule ; on dit qu'il se compose *en bas de casse*.
+En revanche le **déterminatif** qui le suit est en majuscule :
 
-- la guerre de Cent Ans ;<!--ImpNat-->
+- la guerre de Cent Ans ;<!--ImpNat-->
 - les guerres de Religion<!--ImpNat-->.
+
+
+<a id='t1-3'/>
 
 ## Histoire biblique
 
@@ -80,19 +89,38 @@ En revanche, les épisodes bibliques envisagés *en tant que récit* ne prennent
 
 # Géographie
 
-La partie d'un ensemble géographique désignée par un point cardinal prend une majuscule : *le Sud Mayenne, l'Italie du Nord*.
+## Points cardinaux
 
+La partie d'un ensemble géographique désignée par un point cardinal prend une majuscule : *le Sud Mayenne, l'Italie du Nord*.
+
+## Lieux singuliers
+
+- La chrétienté ;
+- La Terre sainte.
+
+## Peuples
+
+
+<!--compléter-->
+
+
+
+<a id='t3'/>
 
 # Personnes
 
+
+<a id='t3-1'/>
+
 ## Dynastie
 
-Les noms de dynasties prennent une majuscule :
+Les noms de dynasties prennent une majuscule :
 
-- les Mérovingiens
-- les Carolingiens
+> J'ai étudié les Mérovingiens\
+ J'ai étudié les Carolingiens.
 
-<a id='t2-1'/>
+
+<a id='t3-2'/>
 
 ## Saints
 
@@ -103,11 +131,12 @@ Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne ; en r
 
 **NB** : un trait d'union relie les parties d'un vocable.
 
-## Peuples
 
-<!--compléter-->
+<a id='t3-3'/>
 
-<a id='t2-2'/>
+
+
+<a id='t3-4'/>
 
 ## Personnages bibliques
 
@@ -116,17 +145,17 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Innocents : *le massacre des Innocents* ;
 - Mages : *l'adoration des Mages, les Rois mages*<!--@beaudCesRoisMages2022--> ;
 - Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;
-- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
+- Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
 - Vivants (symboles des évangélistes).
 
-En revanche, les substantifs désignant la plupart des types de personnages bibliques s'écrivent en bas de casse :
+En revanche, les substantifs désignant la plupart des types de personnages bibliques s'écrivent en bas de casse :
 apôtres,
 évangélistes,
 prophètes,
 etc.
 
 
-<a id='t3'/>
+<a id='t4'/>
 
 # Scènes, sujets iconographiques
 
@@ -152,16 +181,15 @@ Sinon, on peut écrire :
 
 > La scène du Baptême du Christ…
 
-**NB** : les formules *le sujet de* ou *le thème de* sont souvent inutiles : plutôt que *sur la voûte est peint le sujet du péché originel*, écrire : *sur la voûte est peint le Péché originel*.
+**NB** : les formules *le sujet de* ou *le thème de* sont souvent inutiles : plutôt que *sur la voûte est peint le sujet du péché originel*, écrire : *sur la voûte est peint le Péché originel*.
 
 
-
-<a id='t4'/>
+<a id='t5'/>
 
 # Œuvres littéraires
 
 
-<a id='t4-1'/>
+<a id='t5-1'/>
 
 ## Titres authentiques
 
@@ -181,7 +209,7 @@ On peut déterminer si l'article fait partie ou non du titre en consultant des r
 - Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
 
 
-<a id='t4-2'/>
+<a id='t5-2'/>
 
 ## Titres forgés
 
@@ -194,18 +222,21 @@ C'est le cas de la Bible et des **livres bibliques** en général :
  J'ai lu l'Histoire ancienne jusqu'à César.
 
 
-<a id='t5'/>
+<a id='t6'/>
 
 # Styles
 
-Les noms de styles s'écrivent en bas de casse :
+Les noms de styles s'écrivent en bas de casse :
 
 > J'ai étudié l'art roman.
 
+
+<a id='t7'/>
+
 # Œuvres d'art médiéval
 
-Les titres des oeuvres d'art médiéval sont systématiquement forgés. On ne les écrit donc pas en italique
-Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
+Les titres des œuvres d'art médiéval sont systématiquement forgés.
+On ne les écrit donc pas en italique Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
 
 > J'ai étudié le Livre de Kells.\
  J'ai éudié le Psautier de Stuttgart.\
@@ -219,7 +250,13 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
 
 **NB** : Dans les derniers cas, bible et évangile ne désignent pas des œuvres littéraires, mais des objets physiques. Ils s'écrivent donc sans majuscule.
 
+
+<a id='t8'/>
+
 # Lieux de culte
+
+
+<a id='t8-1'/>
 
 ## Vocable
 
@@ -229,12 +266,13 @@ Le mot *saint* prend une majuscule lorsqu'il compose un **vocable** :
 
 **NB** : un trait d'union relie les parties d'un vocable.
 
-Un vocable n'est pas précédé d'une préposition. On n'écrit pas *l'abbaye de Saint-Denis conserve les tombeaux de rois de France* ; on écrit :
+Un vocable n'est pas précédé d'une préposition.
+On n'écrit pas *l'abbaye de Saint-Denis conserve les tombeaux de rois de France* ; on écrit :
 
 > L'abbaye Saint-Denis conserve les tombeaux de rois de France.
 
 
-<a id='t6'/>
+<a id='t9'/>
 
 # Linguistique
 
@@ -249,7 +287,7 @@ Un vocable n'est pas précédé d'une préposition. On n'écrit pas *l'abbaye de
 **Mot**, s'écrit entre guillemets<!--Littré-->. *Le mot « cheval »*.
 
 
-<a id='t7'/>
+<a id='t10'/>
 
 # Ressources
 
