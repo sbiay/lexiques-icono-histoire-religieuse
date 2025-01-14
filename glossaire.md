@@ -187,7 +187,7 @@ Plan :
 
 **glose**, n. f. : commentaire sur un texte. *La Glose ordinaire* : glose faite sur la Bible latine.
 
-**juif**, n. m. : adepte du judaïsme. S'écrit sans majuscule : *Le messie des juifs*. Mais le même mot désigne parfois l'ensemble d'un peuple, il prend alors une majuscule : *Les Juifs et les Romains* (une faute sur l'usage de la majuscule ne sera donc pas sanctionnée étant donné l'ambivalence de son usage).
+**juif**, n. m. : adepte du judaïsme. S'écrit sans majuscule : *Le messie des juifs*. Mais le même mot désigne parfois l'ensemble d'un peuple, il prend alors une majuscule : *Les Juifs et les Romains* (une faute sur l'usage de la majuscule ne sera donc pas sanctionnée étant donné l'ambivalence de son usage). Antérieurement à leur installation en Judée (Israël et Cisjordanie actuels), on parle plutôt des Hébreux.
 
 **laïc**, n. m. et adj. : personne n'appartenant pas au clergé. *Les laïcs, la société laïque*.<!--tous-->
 
