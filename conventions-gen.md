@@ -2,6 +2,8 @@
 title: Conventions d'écriture
 author: Sébastien Biay
 date: 2024-2025
+geometry: left=3cm,right=3cm,top=3cm,bottom=3cm
+urlcolor: blue
 ---
 
 [comment]: <> (FINET)
@@ -199,8 +201,8 @@ Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une maju
 
 On peut déterminer si l'article fait partie ou non du titre en consultant des ressources de référence : 
 
-- Pour les titres d'œuvres classiques ou modernes, voir \color{blue}[\underline{data.bnf.fr}](https://data.bnf.fr)\color{black} ;
-- Pour les titres d'œuvres médiévales, voir \color{blue}[\underline{portail.biblissima.fr}](https://portail.biblissima.fr/fr/)\color{black}.
+- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) ;
+- Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
 
 
 <a id='t5-2'/>
