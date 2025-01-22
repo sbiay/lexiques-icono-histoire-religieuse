@@ -1,1 +1,2 @@
-pandoc conventions-gen.md -V fontsize=12pt -o telechargements/conventions.pdf
+pandoc conventions-gen.md -V fontsize=12pt -o ~/telechargements/conventions.pdf
+
