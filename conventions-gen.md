@@ -80,11 +80,14 @@ En revanche, on écrit : *le nord de la France*.
 
 ## Peuples et religions
 
-Les noms de peuples prennent une majuscule : *les Romains, les Francs, les Anglo-Saxons<!--Robert-->*.
+Les noms de peuples prennent une majuscule : *les Romains, les Francs, les Anglo-Saxons<!--Robert-->*.\
+Attention : pas de majuscule pour *les barbares*, qui ne sont pas un peuple mais une catégorie linguistique et culturelle.
 
-En revanche, les adeptes d'une religion s'écrivent en bas de casse : *les chrétiens, les musulmans, les juifs, les gentils*.
+Les adeptes d'une religion s'écrivent en bas de casse : *les chrétiens, les musulmans, les juifs, les gentils*.
 
 **NB** : dans la mesure où il désigne un peuple autant que les adeptes d'une religion, le nom *juif* peut s'écrire avec ou sans majuscule : *les Juifs et les Romains ; les juifs et les chrétiens*.
+
+
 
 
 ## Lieux singuliers
@@ -134,7 +137,7 @@ Les substantifs de la liste suivante prennent une majuscule :
 
 - Innocents : *le massacre des Innocents* ;
 - Mages, seulement lorsqu'il est employé seul : *l'adoration des Mages*<!--@beaudCesRoisMages2022--> ;
-- Rois : *les Rois mages*<!--@beaudCesRoisMages2022--> ;
+- Rois mages<!--@beaudCesRoisMages2022--> ;
 - Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
 - Vivants, pour les symboles des évangélistes.
 
