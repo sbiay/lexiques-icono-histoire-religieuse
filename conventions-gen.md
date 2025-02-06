@@ -88,11 +88,10 @@ Les adeptes d'une religion s'écrivent en bas de casse : *les chrétiens, les m
 **NB** : dans la mesure où il désigne un peuple autant que les adeptes d'une religion, le nom *juif* peut s'écrire avec ou sans majuscule : *les Juifs et les Romains ; les juifs et les chrétiens*.
 
 
-
-
 ## Lieux singuliers
 
 - la chrétienté ;
+- la Gaule (seul le général de Gaulle prend deux L) ;
 - la Terre sainte.
 
 <a id='t3'/>
@@ -116,6 +115,7 @@ Lorsqu'il s'agit de dynastie régnant sur des royaumes autres que la France, leu
 - les Plantagenêt ;
 - les Hohenstaufen.
 
+Mais il ne faut pas oublier que les adjectifs dérivés de ces noms s'écrivent, comme tout adjectif, en bas de casse : *l'art mérovingienne, la monarchie capétienne*.
 
 <a id='t3-2'/>
 
@@ -229,7 +229,7 @@ C'est le cas de la Bible et des **livres bibliques** en général :
 
 Les noms de styles s'écrivent en bas de casse : 
 
-> J'étudie l'art roman.
+> J'étudie l'art roman, l'art insulaire, l'art mosan, etc.
 
 
 ## Œuvres d'art
@@ -241,7 +241,7 @@ Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent u
 
 > J'étudie le Livre de Kells.\
  J'étudie le Psautier de Stuttgart.\
- J'étudie l'Émail Plantagenêt<!--convention non suivie sur le web-->.
+ J'étudie l'Émail plantagenêt<!--convention non suivie sur le web : j'imagine que plantagenêt est ici un adj., il faut donc le mettre en bas de casse-->.
 
 En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis, les substantifs restent en bas de casse :
 
