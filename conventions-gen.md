@@ -28,6 +28,8 @@ L'ajout d'un qualificatif se fait sans majuscule : *le haut Moyen Âge ; l'Ant
 
 **Les siècles** doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
 
+**L'ère chrétienne** --- on abrège ainsi l'expression avant ou après Jésus-Christ : *au I^er^ siècle av. J.-C. ou au I^er^ siècle ap. J.-C.*
+
 
 <a id='t1-2'/>
 
