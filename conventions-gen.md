@@ -72,13 +72,13 @@ Voir plus loin : « Scènes, sujets iconographiques ».
 
 # Lieux et populations
 
-
 ## Points cardinaux
 
 La partie d'un ensemble géographique désignée par un point cardinal prend une majuscule : *le Sud Mayenne, l'Italie du Nord*.
 
 En revanche, on écrit : *le nord de la France*.
 
+Les grands ensembles géopolitiques et religieux prennent des majuscules : *l'Orient et de l'Occident*.
 
 ## Peuples et religions
 
