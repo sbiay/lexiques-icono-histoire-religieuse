@@ -202,11 +202,11 @@ Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une maju
 
 > J'ai lu *Les misérables*<!--DataBnF-->.\
  J'ai lu *Le rouge et le noir*<!--DataBnF-->.\
- J'ai lu *La divine comédie*<!--DataBnF-->
+ J'ai lu *La divine comédie*<!--DataBnF-->.
 
 On peut déterminer si l'article fait partie ou non du titre en consultant des ressources de référence : 
 
-- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) ;
+- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) (chercher par l'auteur pour trouver facilement) ;
 - Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
 
 
