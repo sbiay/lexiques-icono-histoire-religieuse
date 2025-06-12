@@ -38,11 +38,14 @@ Plan :
 
 # Domaines scientifiques
 
+
 **historiographie**, n. f. : travail de l'historiographe<!--Robert-->. Par métonymie, ensemble des travaux ayant porté sur un sujet ; ensemble des connaissances et des hypothèses écrites à ce sujet jusqu'à aujourd'hui.<!--tous-->
+
+**philologie**, n. f. : science de l'édition des sources écrites. L'édition d'une source consiste à en établir le texte à partir de sa tradition manuscrite ; à le corriger, à l'annoter, à le présenter dans une publication.
 
 <!--
 	paléographie
-	philologie
+
 	épigraphie
 -->
 

@@ -202,11 +202,11 @@ Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une maju
 
 > J'ai lu *Les misérables*<!--DataBnF-->.\
  J'ai lu *Le rouge et le noir*<!--DataBnF-->.\
- J'ai lu *La divine comédie*<!--DataBnF-->.
+ J'ai lu *La divine comédie*<!--DataBnF-->
 
 On peut déterminer si l'article fait partie ou non du titre en consultant des ressources de référence : 
 
-- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) (chercher par l'auteur pour trouver facilement) ;
+- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) ;
 - Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
 
 
@@ -236,7 +236,13 @@ Les noms de styles s'écrivent en bas de casse :
 
 ## Œuvres d'art
 
-Les titres des œuvres d'art médiéval sont systématiquement forgés.
+Les titres des œuvres d'**art moderne et contemporain** sont considérés comme des titres authentiques : ils doivent être écrits en italique (ou soulignés dans une composition manuscrite).
+
+> J'étudie *Les époux Arnolfini* de Jan Van Eyck<!--databnF-->.\
+ J'étudie *La Vierge aux rochers* de Léonard de Vinci<!--databnF-->.
+ 
+
+En revanche, les titres des œuvres d'**art médiéval** sont systématiquement forgés et considérés comme tels.
 On ne les écrit donc pas en italique et on ne les souligne pas dans les copies manuscrites (contrairement aux usages de l'histoire de l'art moderne et contemporain).
 
 Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent une majuscule :
