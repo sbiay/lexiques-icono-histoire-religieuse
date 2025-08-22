@@ -29,23 +29,10 @@ L'ajout d'un qualificatif se fait sans majuscule : *le haut Moyen Âge ; l'Ant
 
 **Les siècles** doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
 
-**L'ère chrétienne** --- on abrège ainsi l'expression avant ou après Jésus-Christ : *au I^er^ siècle av. J.-C. ou au I^er^ siècle ap. J.-C.*<!--pas en licence-->
 
 
 <a id='t1-2'/>
 
-<!--pas en licence DEBUT-->
-
-## Événements historiques
-
-Le **substantif** d'un nom d'événement historique (guerre, traité, etc.) ne prend pas de majuscule ; on dit qu'il se compose *en bas de casse*.
-En revanche le **déterminatif** qui le suit est en majuscule :
-
-- les croisades, la première croisade ;<!--Dico du MA-->
-- la guerre de Cent Ans ;<!--ImpNat-->
-- les guerres de Religion<!--ImpNat-->.
-
-<!--pas en licence FIN-->
 
 <a id='t1-3'/>
 
@@ -61,33 +48,12 @@ Les grands événements de l'histoire biblique, notamment ceux relatant l'histoi
 - l'Ascension ;
 - le Jugement dernier.
 
-<!--pas en licence DEBUT-->
-
-En revanche, la plupart des épisodes bibliques envisagés *en tant que récit* ne prennent pas de majuscule :
-
-> Le péché originel est l'épisode central de la Chute.\<!--pas en licence-->
- Seul l'Évangile selon Matthieu relate l'adoration des Mages.
-
-**Attention** !
-Les mêmes épisodes évoqués *en tant que scènes* dans une œuvre d'art prennent une majuscule : *l'artiste a sculpté le Péché originel*.
-Voir plus loin : « Scènes, sujets iconographiques ».
-
-<!--pas en licence FIN-->
 
 <a id='t2'/>
 
 
 # Lieux et populations
 
-<!--pas en licence DEBUT-->
-## Points cardinaux
-
-La partie d'un ensemble géographique désignée par un point cardinal prend une majuscule : *le Sud Mayenne, l'Italie du Nord*.
-
-En revanche, on écrit : *le nord de la France*.
-
-Les grands ensembles géopolitiques et religieux prennent des majuscules : *l'Orient et de l'Occident*.
-<!--pas en licence FIN-->
 
 ## Peuples et religions
 
@@ -165,36 +131,6 @@ etc.*
 # Arts et lettres
 
 
-<!--pas en licence DEBUT-->
-## Scènes, sujets iconographiques
-
-Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule :
-
-> L'Adoration des Mages orne le tympan du portail.\
- La scène du Massacre des Innocents est peinte au premier registre.\
- Le Jugement dernier de Notre-Dame de Paris…
-
-Certains épisodes bibliques possèdent un nom propre, et prennent toujours une majuscule :
-
-- Annonciation ;
-- Crucifixion ;
-- Pentecôte ;
-- Transfiguration ;
-- Visitation.
-
-**NB** : si l'on écrit que telle scène *représente* tel récit, on doit appliquer la typographie des épisodes *en tant que récits* (sans majuscule) : 
-
-> La scène représente le baptême du Christ.
-
-Sinon, on peut écrire :
-
-> La scène du Baptême du Christ…
-
-**NB** : les formules « le sujet de » ou « le thème de » sont souvent inutiles : plutôt que *sur la voûte est peint le sujet du Péché originel*, écrire : *sur la voûte est peint le Péché originel*.
-
-
-<a id='t5'/>
-<!--pas en licence FIN-->
 
 
 
@@ -210,20 +146,6 @@ Le titre d'une œuvre littéraire doit être écrit en **italique** (ou soulign�
 
 > J'ai lu les *Confessions* de saint Augustin<!--biblissima et DataBNF-->.
 
-<!--pas en licence DEBUT-->
-
-Si **l'article** fait partie intégrante du titre de l'œuvre, il prend une majuscule :
-
-> J'ai lu *Les misérables*<!--DataBnF-->.\
- J'ai lu *Le rouge et le noir*<!--DataBnF-->.\
- J'ai lu *La divine comédie*<!--DataBnF-->
-
-On peut déterminer si l'article fait partie ou non du titre en consultant des ressources de référence : 
-
-- Pour les titres d'œuvres classiques ou modernes, voir [data.bnf.fr](https://data.bnf.fr) ;
-- Pour les titres d'œuvres médiévales, voir [portail.biblissima.fr](https://portail.biblissima.fr/fr/).
-
-<!--pas en licence FIN-->
 
 
 <a id='t5-2'/>
