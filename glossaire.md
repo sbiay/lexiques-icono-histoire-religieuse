@@ -153,6 +153,8 @@ Plan :
 
 # Iconographie
 
+**allocution (geste d')**, n. f. : geste de la main impliquant généralement deux doigts (l'index et le majeur), évoquant l'expression d'un mot ou d'un discours. Ne signifie une bénédiction que dans des situations bien particulières.<!--cf. @anghebenGesteDallocutionRepresentation2013--><!--tous-->
+
 **auréole**, n. f. (lat. chrét. *aureola*, couronne) : cercle lumineux dont les artistes entourent généralement la tête des saints. Synonyme : nimbe.<!--tous-->
 
 **mandorle**, n. f. (ital. *mandorla*) : figure géométrique en forme d'amande entourant généralement le Christ en majesté. Par extension, toute forme géométrique (circulaire, en 8, etc.) entourant le Christ en majesté ou des saints.
@@ -202,7 +204,7 @@ Plan :
 
 **néotestamentaire**, adj. : relatif au Nouveau Testament.<!--tous-->
 
-**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien. 
+**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien.<!--L3ANT-->
 
 **patriarche**, n. m. : personnage de l'Ancien Testament, ancêtre des tribus d'Israël, d'une grande longévité. Abraham, Jacob, Joseph, Moïse principalement. La définition est souple : on trouve parfois que la lignée des patriarches commence avec Adam.
 
