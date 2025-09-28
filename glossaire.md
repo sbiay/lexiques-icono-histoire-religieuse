@@ -113,7 +113,7 @@ fonte
 
 <a id='t4-2'/>
 
-## Eléments architecturaux
+## Éléments architecturaux
 
 <!--ajouter abside, cul de four, sanctuaire-->
 
@@ -134,25 +134,22 @@ fonte
 
 -->
 
+**autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.<a info="tous"/>
+
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
 <!--
 **vigile**, n. f. : jour précédant une fête, pendant lequel on observait généralement l'abstinence et le jeûne. *Vigile de Noël, de Pâques*.
 -->
 
-
-<a id='t4-4'/>
-
-## Mobilier liturgique
-
-**autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.<a info="tous"/>
-
-**fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale dans laquelle on peut pratiquer l'immersion complète du corps.
+**fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale, dans laquelle on peut pratiquer l'immersion complète du corps.
 
 
 <a id='t4-5'/>
 
 ## Monuments funéraires
+
+<!--
 
 ***arcosolium***, n. m. (lat.) : niche surmontée d'une voûte et flanquée de colonnes, servant de lieu d'inhumation ou de mobilier liturgique.
 
@@ -162,10 +159,13 @@ fonte
 
 ***loculus***, n. m. (pl. *loculi*) : niche, emplacement réservé à un corps dans une catacombe.
 
+-->
+
 **mausolée**, n. m. : monument funéraire grandiose, somptueux, ayant la taille d'un véritable édifice, destiné à recevoir la dépouille d'un personnage puissant et éventuellement celles des personnes de sa famille.
 
+<!--
 **stèle**, n. f. : monument monolithe ayant souvent la forme d'une dalle placée en position verticale, parfois orné de sculptures ou de peintures, sur lequel sont gravées des inscriptions parfois commémoratives. Elles sont également employées dans d'autres contextes que funéraire (événements politiques, textes législatifs).
-
+-->
 
 <a id='t5'/>
 
@@ -192,7 +192,9 @@ fonte
 
 **apocryphe**, adj. : qualifie un texte religieux dont l'Église ne reconnaît pas l'origine divine ; par opposition aux textes du canon de la Bible.<a info="tous"/>
 
+<!--
 **charisme**, n. m. : don surnaturel octroyé par Dieu à certains croyants (les apôtres, les saints).
+-->
 
 **chrétien**, n. m. : adepte du christianisme. **NB** : s'écrit sans majuscule : *les premiers chrétiens*.<a info="tous"/>
 
@@ -200,9 +202,13 @@ fonte
 
 **clergé**, n. m. : ensemble du personnel composant l'Église.<a info="tous"/>
 
+<!--
 **concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).<a info="tous"/>
+-->
 
-**Évangile**, n. m. : avec une maj. : 1. Enseignement de Jésus-Christ. *Répandre l'Évangile*. Sens littéral : bonne nouvelle. 2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.<a info="tous"/>
+**Évangile**, n. m. : avec une maj. :
+1. Enseignement de Jésus-Christ. *Répandre l'Évangile*. Sens littéral : bonne nouvelle ;
+2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.<a info="tous"/>
 
 **évangéliste**, n. m. : auteur d'un Évangile.<a info="tous"/>
 
