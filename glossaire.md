@@ -144,6 +144,8 @@ fonte
 
 **fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale, dans laquelle on peut pratiquer l'immersion complète du corps.
 
+**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église.<a info="tous"/>
+
 
 <a id='t4-5'/>
 
@@ -206,29 +208,31 @@ fonte
 **concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).<a info="tous"/>
 -->
 
-**Évangile**, n. m. : avec une maj. :
-1. Enseignement de Jésus-Christ. *Répandre l'Évangile*. Sens littéral : bonne nouvelle ;
+**Évangile**, n. m. : sens littéral : bonne nouvelle. Avec une maj. :
+1. Enseignement de Jésus-Christ. *Répandre l'Évangile* ;
 2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.<a info="tous"/>
 
 **évangéliste**, n. m. : auteur d'un Évangile.<a info="tous"/>
 
+<!--
 **gentil**, n. m. : nom que les juifs et les premiers chrétiens donnaient aux personnes étrangères à leur religion.
 
 **glose**, n. f. : commentaire sur un texte. *La Glose ordinaire* : glose faite sur la Bible latine.
 
 **juif**, n. m. : adepte du judaïsme. S'écrit sans majuscule : *Le messie des juifs*. Mais le même mot désigne parfois l'ensemble d'un peuple, il prend alors une majuscule : *Les Juifs et les Romains* (une faute sur l'usage de la majuscule ne sera donc pas sanctionnée étant donné l'ambivalence de son usage). Antérieurement à leur installation en Judée (Israël et Cisjordanie actuels), on parle plutôt des Hébreux.
+-->
 
 **laïc**, n. m. et adj. : personne n'appartenant pas au clergé. *Les laïcs, la société laïque*.<a info="tous"/>
 
 **Loi**, n. f. avec une maj. : commandements et institutions écrits dans le Pentateuque et donnés par Dieu à son peuple par l'intermédiaire de Moïse ; par métonymie, l'Ancien Testament.<a info="tous"/>
 
-**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église.<a info="tous"/>
-
 **messie**, n. m. (he. *mashiah*, gr. *christos*) : littéralement celui qui a reçu une onction sacrée, symbole d'une mission d'origine divine. Les significations différent selon les textes de l'Ancien Testament : roi, prophète, grand prêtre. S'emploie avec une majuscule s'il est seul : *le Messie*. Sans majuscule avec un qualificatif : *le messie des juifs*.
 
 **néotestamentaire**, adj. : relatif au Nouveau Testament.<a info="tous"/>
 
-**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien.<!--L3ANT-->
+<!--
+**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien.<a info="L3ANT"/>
+-->
 
 **patriarche**, n. m. : personnage de l'Ancien Testament, ancêtre des tribus d'Israël, d'une grande longévité. Abraham, Jacob, Joseph, Moïse principalement. La définition est souple : on trouve parfois que la lignée des patriarches commence avec Adam.
 
@@ -253,7 +257,7 @@ fonte
 
 # Personnages, créatures, lieux
 
-*Ne sont listés que les noms pouvant présentant des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
+*Ne sont listés que les noms pouvant présenter des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
 
 **Abel** : fils d'Adam, assassiné par son frère Caïn (Gn).
 
@@ -279,6 +283,6 @@ fonte
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
 
+<!--
 **Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme les symboles des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe* qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre animaux symboliques, comme dans les Évangiles de Trèves ([\color{blue}[\underline{ici}](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg)\color{black}]).<a info="tous"/>
-
-
+-->
