@@ -21,7 +21,7 @@ Plan :
 6. [Doctrine chrétienne](#t6)
 7. [Personnages, créatures, lieux](#t7)
 
-[comment]: <> (FINET)
+<!--FINET-->
 
 
 
@@ -31,7 +31,7 @@ Plan :
 
 **Antiquité tardive** : période ouverte au III^e^ s. par les premières menaces d'invasion de l'empire romain et l'instauration de la tétrachie comme forme de gouvernement de l'empire, et se refermant à la mort de Justinien en 565, dernier empereur ayant maintenu l'unité des empires romains d'Orient et d'Occident. **NB** : en tant qu'adjectif, *tardive* ne prend pas de majuscule.<a info="tous"/>
 
-**Moyen Âge** : période située entre l'Antiquité et la Renaissance, ou plus précisément entre la fin de l'empire romain (476) et le milieu du XV^e^ siècle, marqué par la chute de Constantinople (1453), la fin de la présence musulmane en Espagne (1491) et le début de la colonisation des "Indes occidentales" (1492). **NB** : s'écrit désormais sans trait d'union.<a info="tous"/>
+**Moyen Âge** : période située entre l'Antiquité et la Renaissance, ou plus précisément entre la fin de l'empire romain (476) et le milieu du XV^e^ siècle, marqué par la chute de Constantinople (1453), la fin de la présence musulmane en Espagne (1491) et le début de la colonisation des « Indes occidentales » (1492). **NB** : s'écrit désormais sans trait d'union.<a info="tous"/>
 
 
 <a id='t2'/>
@@ -42,7 +42,7 @@ Plan :
 
 **historiographie**, n. f. : travail de l'historiographe. Par métonymie, ensemble des travaux ayant porté sur un sujet ; ensemble des connaissances et des hypothèses écrites à ce sujet jusqu'à aujourd'hui.<a info="tous"/>
 
-**philologie**, n. f. : science de l'édition des sources écrites. L'édition d'une source consiste à en établir le texte à partir de sa tradition manuscrite ; à le corriger, à l'annoter, à le présenter dans une publication.
+**philologie**, n. f. : science de l'édition des sources écrites. L'édition d'une source consiste à en établir le texte à partir de sa tradition manuscrite ; à le corriger, à l'annoter, à le présenter dans une publication.
 
 	paléographie
 
@@ -56,7 +56,7 @@ Plan :
 
 ## Terminologie générale
 
-**orfèvrerie**, n. f. : fabrication d'objets de parure ou de décoration en métaux précieux finement travaillés ; art de fabriquer de tels objets<note info="CNRTL"/>.<a info="tous"/>
+**orfèvrerie**, n. f. : fabrication d'objets de parure ou de décoration en métaux précieux finement travaillés ; art de fabriquer de tels objets<note info="CNRTL"/>.<a info="tous"/>
 
 **toreutique**, n. f. : art de travailler en relief (ciseler, graver, sculpter) les matières dures telles que les métaux, l'ivoire, le bois, le marbre, etc.<note info="CNRTL"/><a info="tous"/>
 
@@ -66,7 +66,7 @@ Plan :
 
 **enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.<a info="tous"/>
 
-**mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).<a info="tous"/>
+**mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).<a info="tous"/>
 
 <!--
 **tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
@@ -81,11 +81,13 @@ Bég. Dessin 1978, d'après CNRTL.
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.<a info="tous"/>
 
 <!--
+
+
 ## Orfèvrerie
 
 fonte
 
-**émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
+**émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
 
 -->
 
@@ -173,7 +175,7 @@ fonte
 
 # Iconographie
 
-**allocution (geste d')**, n. f. : geste de la main impliquant généralement deux doigts (l'index et le majeur), évoquant l'expression d'un mot ou d'un discours. Ne signifie une bénédiction que dans des situations bien particulières.<!--cf. @anghebenGesteDallocutionRepresentation2013--><a info="tous"/>
+**allocution (geste d')**, n. f. : geste de la main impliquant généralement deux doigts (l'index et le majeur), évoquant l'expression d'un mot ou d'un discours. Ne signifie une bénédiction que dans des situations bien particulières.<!--cf. @anghebenGesteDallocutionRepresentation2013--><a info="tous"/>
 
 **auréole**, n. f. (lat. chrét. *aureola*, couronne) : cercle lumineux dont les artistes entourent généralement la tête des saints. Synonyme : nimbe.<a info="tous"/>
 
@@ -209,7 +211,7 @@ fonte
 -->
 
 **Évangile**, n. m. : sens littéral : bonne nouvelle. Avec une maj. :
-1. Enseignement de Jésus-Christ. *Répandre l'Évangile* ;
+1. Enseignement de Jésus-Christ. *Répandre l'Évangile* ;
 2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.<a info="tous"/>
 
 **évangéliste**, n. m. : auteur d'un Évangile.<a info="tous"/>
