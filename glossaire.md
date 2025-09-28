@@ -264,6 +264,7 @@ fonte
 **Jérusalem** : capitale historique du royaume des Juifs, lieu de la Passion du Christ.
 
 **Jésus-Christ**, prend un trait d'union.
+
 [comment8]: <> (Vérifié dans les consignes typo de l'imprimerie nationale, parmi les abréviations : av. J.-C.)
 
 **Melchisédech** : roi-prêtre célébrant devant Abraham une bénédiction avec le pain et le vin, prototype de la messe chrétienne ; Abraham lui verse la dîme, redevance des laïcs à l'Église.
