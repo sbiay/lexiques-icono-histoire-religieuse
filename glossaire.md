@@ -189,6 +189,7 @@ fonte
 **apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
 **apocryphe**, adj. : qualifie un texte religieux dont l'Église ne reconnaît pas l'origine divine ; par opposition aux textes du canon de la Bible.
+
 <!--
 **charisme**, n. m. : don surnaturel octroyé par Dieu à certains croyants (les apôtres, les saints).
 -->
