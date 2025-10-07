@@ -143,6 +143,8 @@ fonte
 
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
 
+**chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturigique).
+
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
 <!--
@@ -152,6 +154,8 @@ fonte
 **fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale, dans laquelle on peut pratiquer l'immersion complète du corps.
 
 **liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église.
+
+***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
 
 <a id='t3-4'/>
@@ -198,7 +202,8 @@ fonte
 
 **christianisme**, n. m. : religion des chrétiens. **NB** : s'écrit sans majuscule et avec un seul *n*.
 
-**clergé**, n. m. : ensemble du personnel composant l'Église.
+**clergé**, n. m. : ensemble du personnel composant l'Église (religieux mais aussi laïcs au service de l'Église). Il se divise en deux catégories : le clergé séculier, qui vit dans le « siècle », c'est-à-dire parmi les laïcs au sein des villes et des villages (activité pastorale, culte au sein des paroisses) ; et le clergé régulier, qui vit sous une règle (monastique ou canoniale).
+
 <!--
 **concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).-->
 
@@ -214,6 +219,10 @@ fonte
 
 **juif**, n. m. : adepte du judaïsme. S'écrit sans majuscule : *Le messie des juifs*. Mais le même mot désigne parfois l'ensemble d'un peuple, il prend alors une majuscule : *Les Juifs et les Romains* (une faute sur l'usage de la majuscule ne sera donc pas sanctionnée étant donné l'ambivalence de son usage). Antérieurement à leur installation en Judée (Israël et Cisjordanie actuels), on parle plutôt des Hébreux.
 -->
+
+**évêque**, n. m. : personne de rang le plus élevé de la hiérarchie ecclésiastique, chargé de l'administration d'un diocèse.
+
+**diacre**, n. m. : du gr. *diakonos*, serviteur ; originellement au service des seuls évêques, le diacre devient au Moyen Âge l'assistant des prêtres lors du culte (lecture de l'Évangile, distribution des hosties consacrées). Le diaconat est le deuxième des ordres ecclésiastiques majeurs après le sacerdoce.
 
 **laïc**, n. m. et adj. : personne n'appartenant pas au clergé. *Les laïcs, la société laïque*.
 
@@ -235,7 +244,9 @@ fonte
 
 **préfiguration**, n. f. : épisode ou personnage de l'Ancien Testament considéré comme annonçant un épisode ou un personnage du Nouveau Testament. Le sacrifice d'Isaac par Abraham est considéré comme une préfiguration du sacrifice du Christ.
 
-**saint**, n. m. : personne dotée d'un charisme d'origine divine. **NB** : le mot *saint* ne prend pas de majuscule lorsqu'il désigne une personne : *l'Évangile selon saint Matthieu*. Il prend une majuscule en tant que vocable : *l'église Saint-Pierre*.
+**sacerdoce**, n. m. : fonction de ceux qui ont le privilège du sacré ou de certains rapports publics avec la divinité : les prêtres ; syn. prêtrise.
+
+**saint**, n. m. : personne dotée d'un charisme d'origine divine. **NB** : le mot *saint* ne prend pas de majuscule lorsqu'il désigne une personne : *l'Évangile selon saint Matthieu*. Il prend une majuscule en tant que vocable : *l'église Saint-Pierre*. On dit alors que Pierre est le saint dédicataire de l'église.
 
 **testament**, n. m. : nom donné aux corpus textuels composant la Bible. *L'Ancien Testament, le Nouveau Testament*. **NB** : majuscules.
 
