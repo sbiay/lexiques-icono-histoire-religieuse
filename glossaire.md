@@ -207,6 +207,8 @@ fonte
 <!--
 **concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).-->
 
+**diacre**, n. m. : du gr. *diakonos*, serviteur ; originellement au service des seuls évêques, le diacre devient au Moyen Âge l'assistant des prêtres lors du culte (lecture de l'Évangile, distribution des hosties consacrées). Le diaconat est le deuxième des ordres ecclésiastiques majeurs après le sacerdoce.
+
 **Évangile**, n. m. : sens littéral : bonne nouvelle. Avec une maj. :
 1. Enseignement de Jésus-Christ. *Répandre l'Évangile* ;
 2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.
@@ -221,8 +223,6 @@ fonte
 -->
 
 **évêque**, n. m. : personne de rang le plus élevé de la hiérarchie ecclésiastique, chargé de l'administration d'un diocèse.
-
-**diacre**, n. m. : du gr. *diakonos*, serviteur ; originellement au service des seuls évêques, le diacre devient au Moyen Âge l'assistant des prêtres lors du culte (lecture de l'Évangile, distribution des hosties consacrées). Le diaconat est le deuxième des ordres ecclésiastiques majeurs après le sacerdoce.
 
 **laïc**, n. m. et adj. : personne n'appartenant pas au clergé. *Les laïcs, la société laïque*.
 
