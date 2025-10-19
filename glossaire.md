@@ -143,7 +143,11 @@ fonte
 
 -->
 
+**ambon**, n. m. : sorte de chaire ou tribune, placée à l'entrée du chœur des basiliques chrétiennes et des cathédrales et à laquelle on accède par des marches pour y faire certaines lectures publiques ou liturgiques, notamment l'épître et l'évangile, ainsi que la prédication<note info="CNRTL"/>.
+
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
+
+**catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes, dans l'Église ancienne<note info="CNRTL"/>.
 
 **chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturigique).
 
