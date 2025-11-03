@@ -2,6 +2,7 @@
 title: Glossaire d'iconographie et d'histoire religieuse médiévale
 author: Sébastien Biay
 date: 2^nd^ semestre 2023-2024
+lang: fr-FR
 ---
 
 Plan :
@@ -30,7 +31,7 @@ Plan :
 
 # Périodes historiques
 
-**Antiquité tardive** : période ouverte au III^e^ s. par les premières menaces d'invasion de l'empire romain et l'instauration de la tétrachie comme forme de gouvernement de l'empire, et se refermant à la mort de Justinien en 565, dernier empereur ayant maintenu l'unité des empires romains d'Orient et d'Occident. **NB** : en tant qu'adjectif, *tardive* ne prend pas de majuscule.
+**Antiquité tardive** : période ouverte au III^e^ s. par les premières menaces d'invasion de l'empire romain et l'instauration de la tétrarchie comme forme de gouvernement de l'empire, et se refermant à la mort de Justinien en 565, dernier empereur ayant maintenu l'unité des empires romains d'Orient et d'Occident. **NB** : en tant qu'adjectif, *tardive* ne prend pas de majuscule.
 
 **Moyen Âge** : période située entre l'Antiquité et la Renaissance, ou plus précisément entre la fin de l'empire romain (476) et le milieu du XV^e^ siècle, marqué par la chute de Constantinople (1453), la fin de la présence musulmane en Espagne (1491) et le début de la colonisation des « Indes occidentales » (1492). **NB** : s'écrit désormais sans trait d'union.
 
@@ -147,9 +148,9 @@ fonte
 
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
 
-**catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes, dans l'Église ancienne<note info="CNRTL"/>.
+**catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
 
-**chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturigique).
+**chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
 
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
