@@ -71,7 +71,7 @@ Plan :
 
 **enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
 
-**frontispice**, n. m. : image placée en regard du début d'un texte (pour les manuscrits) ou d'une page de de titre (pour les imprimés).
+**frontispice**, n. m. : image placée en regard du début d'un texte (pour les manuscrits) ou d'une page de de titre (pour les imprimés).
 
 **mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
 <!--
@@ -144,13 +144,13 @@ fonte
 
 -->
 
-**ambon**, n. m. : sorte de chaire ou tribune, placée à l'entrée du chœur des basiliques chrétiennes et des cathédrales et à laquelle on accède par des marches pour y faire certaines lectures publiques ou liturgiques, notamment l'épître et l'évangile, ainsi que la prédication<note info="CNRTL"/>.
+**ambon**, n. m. : sorte de chaire ou tribune, placée à l'entrée du chœur des basiliques chrétiennes et des cathédrales et à laquelle on accède par des marches pour y faire certaines lectures publiques ou liturgiques, notamment l'épître et l'évangile, ainsi que la prédication<note info="CNRTL"/>.
 
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
 
-**catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
+**catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
 
-**chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
+**chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
 
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
@@ -162,7 +162,7 @@ fonte
 
 **liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église.
 
-***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
+***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
 
 <a id='t3-4'/>
@@ -251,7 +251,7 @@ fonte
 
 **préfiguration**, n. f. : épisode ou personnage de l'Ancien Testament considéré comme annonçant un épisode ou un personnage du Nouveau Testament. Le sacrifice d'Isaac par Abraham est considéré comme une préfiguration du sacrifice du Christ.
 
-**sacerdoce**, n. m. : fonction de ceux qui ont le privilège du sacré ou de certains rapports publics avec la divinité : les prêtres ; syn. prêtrise.
+**sacerdoce**, n. m. : fonction de ceux qui ont le privilège du sacré ou de certains rapports publics avec la divinité : les prêtres ; syn. prêtrise.
 
 **saint**, n. m. : personne dotée d'un charisme d'origine divine. **NB** : le mot *saint* ne prend pas de majuscule lorsqu'il désigne une personne : *l'Évangile selon saint Matthieu*. Il prend une majuscule en tant que vocable : *l'église Saint-Pierre*. On dit alors que Pierre est le saint dédicataire de l'église.
 
