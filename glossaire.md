@@ -10,9 +10,9 @@ Plan :
 1. [Périodes historiques](#t1)
 2. [Techniques artistiques](#t2)
 	1. [Terminologie générale](#t2-1)
-	2. [Peinture](#t2-2)
-	3. [Sculpture](#t2-3)
-	4. [Orfèvrerie](#t2-4)
+	2. [Enluminure et codicologie](#t2-2)
+	3. [Peinture](#t2-3)
+	4. [Sculpture](#t2-4)
 3. [Architecture, mobilier et institutions](#t3)
 	1. [Lieux de culte](#t3-1)
 	2. [Éléments architecturaux](#t3-2)
@@ -67,6 +67,25 @@ Plan :
 
 <a id='t2-2'/>
 
+## Enluminure et codicologie
+
+<!--
+
+**dérelier**, v. : démonter la reliure d'un manuscrit pour le démembrer, remanier ses cahiers ou le restaurer<note info="differentes-ressources-bnf-enssib"/>.
+
+-->
+
+**frontispice**, n. m. : enluminure à pleine page placée en regard de l'incipit d'un texte ou, plus rarement, incluant cet incipit<note info="Composition libre à partir de muzerelleCodicologica et du Robert"/>.
+
+**incipit**, n. m. : premiers mots d'un texte.
+
+**pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
+
+Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
+
+
+<a id='t2-3'/>
+
 ## Peinture
 
 **enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
@@ -81,17 +100,16 @@ Bég. Dessin 1978, d'après CNRTL.
 -->
 
 
-<a id='t2-3'/>
+<a id='t2-4'/>
 
 ## Sculpture
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
+
 <!--
 
 
-<a id='t2-4'/>
-
-## Orfèvrerie
+ ## Orfèvrerie
 
 fonte
 
@@ -174,11 +192,12 @@ fonte
 ***arcosolium***, n. m. (lat.) : niche surmontée d'une voûte et flanquée de colonnes, servant de lieu d'inhumation ou de mobilier liturgique.
 
 **épitaphe**, n. f. : inscription mise sur un tombeau pour rappeler le souvenir d'une personne morte.
+-->
 
 **hypogée**, n. m. : construction souterraine, généralement d'usage funéraire.
 
+<!--
 ***loculus***, n. m. (pl. *loculi*) : niche, emplacement réservé à un corps dans une catacombe.
-
 -->
 
 **mausolée**, n. m. : monument funéraire grandiose, somptueux, ayant la taille d'un véritable édifice, destiné à recevoir la dépouille d'un personnage puissant et éventuellement celles des personnes de sa famille.
@@ -211,8 +230,7 @@ fonte
 
 **clergé**, n. m. : ensemble du personnel composant l'Église (religieux mais aussi laïcs au service de l'Église). Il se divise en deux catégories : le clergé séculier, qui vit dans le « siècle », c'est-à-dire parmi les laïcs au sein des villes et des villages (activité pastorale, culte au sein des paroisses) ; et le clergé régulier, qui vit sous une règle (monastique ou canoniale).
 
-<!--
-**concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).-->
+**concile**, n. m. : assemblée des évêques de l'Église catholique. *Le concile de Nicée* (325).
 
 **diacre**, n. m. : du gr. *diakonos*, serviteur ; originellement au service des seuls évêques, le diacre devient au Moyen Âge l'assistant des prêtres lors du culte (lecture de l'Évangile, distribution des hosties consacrées). Le diaconat est le deuxième des ordres ecclésiastiques majeurs après le sacerdoce.
 
@@ -221,6 +239,7 @@ fonte
 2. Chacun des livres de la Bible où la vie et la doctrine de Jésus-Christ ont été consignées. *L'Évangile selon saint Luc*.
 
 **évangéliste**, n. m. : auteur d'un Évangile.
+
 <!--
 **gentil**, n. m. : nom que les juifs et les premiers chrétiens donnaient aux personnes étrangères à leur religion.
 
@@ -292,9 +311,7 @@ fonte
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
 
-<!--
-**Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme les symboles des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe* qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre animaux symboliques, comme dans les Évangiles de Trèves ([\color{blue}[\underline{ici}](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg)\color{black}]).
--->
+**Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme symbole des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe*, qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre espèces animales, comme dans les Évangiles de Trèves ([\color{blue}\underline{ici}](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg)).\color{black}
 
 
 <a id='t4-3'/>

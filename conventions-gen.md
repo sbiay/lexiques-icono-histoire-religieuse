@@ -12,6 +12,12 @@ urlcolor: blue
 
 <a id='t1'/>
 
+Vocabulaire typographique :
+
+- **bas de casse** : lettre minuscule ; opposé à capitale. En typographie, partie inférieure de la casse (casiers contenant les différents caractères typographiques) contenant les caractères courants ;
+
+- **romain** : caractère à traits perpendiculaires à la ligne de base (s'oppose à italique)<note info="robert"/>.
+
 
 # Temps et histoire
 
@@ -168,7 +174,7 @@ etc.*
 <!--pas en licence DEBUT-->
 ## Scènes, sujets iconographiques
 
-Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule :
+Les épisodes bibliques envisagés *en tant que scènes* prennent une majuscule et s'écrivent en romain<note info="LexiqueReglesTypographiques2002-p171"/> :
 
 > L'Adoration des Mages orne le tympan du portail.\
  La scène du Massacre des Innocents est peinte au premier registre.\
