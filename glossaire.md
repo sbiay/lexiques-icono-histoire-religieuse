@@ -90,8 +90,6 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 
 **enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
 
-**frontispice**, n. m. : image placée en regard du début d'un texte (pour les manuscrits) ou d'une page de de titre (pour les imprimés).
-
 **mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
 <!--
 **tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
