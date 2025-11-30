@@ -91,6 +91,7 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 **enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
 
 **mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
+
 <!--
 **tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
 
@@ -101,6 +102,8 @@ Bég. Dessin 1978, d'après CNRTL.
 <a id='t2-4'/>
 
 ## Sculpture
+
+**méplat**, n. m. et adj. : sculpture en très faible relief.
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
 
@@ -165,6 +168,8 @@ fonte
 **autel**, n. m. : élément mobilier, généralement construit en pierre, où l'on célèbre le sacrifice de la messe.
 
 **catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
+
+**cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
 
 **chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
 
