@@ -1,7 +1,6 @@
 ---
 title: Glossaire d'iconographie et d'histoire religieuse médiévale
 author: Sébastien Biay
-date: 2^nd^ semestre 2023-2024
 lang: fr-FR
 ---
 
@@ -218,6 +217,12 @@ fonte
 <a id='t4-1'/>
 
 ## Doctrine
+
+<!--
+**achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
+Variante graphique : acheiropoiète<note info="DHAM"/>
+-->
+
 
 **apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
