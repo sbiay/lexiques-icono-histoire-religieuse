@@ -7,23 +7,44 @@ geometry: left=3cm,right=3cm,top=3cm,bottom=3cm
 urlcolor: blue
 ---
 
-[comment]: <> (FINET)
+Plan :
+
+1. [Temps et histoire](#t1)
+	1. [Périodes historiques](#t1-1)
+	2. [Histoire biblique](#t1-2)
+2. [Lieux et populations](#t2)
+	1. [Peuples et religions](#t2-1)
+	2. [Lieux singuliers](#t2-2)
+3. [Personnes](#t3)
+	1. [Dynasties](#t3-1)
+	2. [Saints](#t3-2)
+	3. [Personnages bibliques](#t3-3)
+4. [Arts et lettres](#t4)
+	1. [Œuvres littéraires](#t4-1)
+		1. [Titres authentiques](#t4-1-1)
+		2. [Titres forgés](#t4-1-2)
+	2. [Styles artistiques](#t4-2)
+	3. [Œuvres d'art](#t4-3)
+	4. [Lieux de culte](#t4-4)
+5. [Ressources](#t5)
+
+<!--FINET-->
+
+
+
+Vocabulaire typographique :
+
+- **bas de casse** : lettre minuscule ; opposé à capitale. En typographie, partie inférieure de la casse (casiers contenant les différents caractères typographiques) contenant les caractères courants ;
+
+- **romain** : caractère à traits perpendiculaires à la ligne de base (s'oppose à italique)<note info="robert"/>.
 
 
 <a id='t1'/>
-
-Vocabulaire typographique :
-
-- **bas de casse** : lettre minuscule ; opposé à capitale. En typographie, partie inférieure de la casse (casiers contenant les différents caractères typographiques) contenant les caractères courants ;
-
-- **romain** : caractère à traits perpendiculaires à la ligne de base (s'oppose à italique)<note info="robert"/>.
-
 
 # Temps et histoire
 
 
 <a id='t1-1'/>
-
 
 ## Périodes historiques
 
@@ -36,12 +57,7 @@ L'ajout d'un qualificatif se fait sans majuscule : *le haut Moyen Âge ; l'Ant
 **Les siècles** doivent être écrits en chiffres romains. *Le IV^e^ siècle commence en l'an 301 et s'achève en l'an 400*.
 
 
-
 <a id='t1-2'/>
-
-
-<a id='t1-3'/>
-
 
 ## Histoire biblique
 
@@ -57,34 +73,36 @@ Les grands événements de l'histoire biblique, notamment ceux relatant l'histoi
 
 <a id='t2'/>
 
-
 # Lieux et populations
 
+
+<a id='t2-1'/>
 
 ## Peuples et religions
 
 Les noms de peuples prennent une majuscule : *les Romains, les Francs, les Anglo-Saxons<!--Robert-->*.\
-Attention : pas de majuscule pour *les barbares*, qui ne sont pas un peuple mais une catégorie linguistique et culturelle.
+Attention : pas de majuscule pour *les barbares*, qui ne sont pas un peuple mais une catégorie linguistique et culturelle.
 
 Les adeptes d'une religion s'écrivent en bas de casse (sans majuscule) : *les chrétiens, les musulmans, les juifs, les gentils*.
 
 **NB** : dans la mesure où il désigne un peuple autant que les adeptes d'une religion, le nom *juif* peut s'écrire avec ou sans majuscule : *les Juifs et les Romains ; les juifs et les chrétiens*.
 
 
+<a id='t2-2'/>
+
 ## Lieux singuliers
 
 - la chrétienté ;
-- la Gaule (seul le général de Gaulle prend deux *L*) ;
+- la Gaule (seul le général de Gaulle prend deux *L*) ;
 - la Terre sainte.
 
-<a id='t3'/>
 
+<a id='t3'/>
 
 # Personnes
 
 
 <a id='t3-1'/>
-
 
 ## Dynasties
 
@@ -98,10 +116,10 @@ Lorsqu'il s'agit de dynastie régnant sur des royaumes autres que la France, leu
 - les Plantagenêt ;
 - les Hohenstaufen.
 
-Ne pas oublier que les adjectifs dérivés de ces noms s'écrivent, comme tout adjectif, en bas de casse : *l'art mérovingien, la monarchie capétienne*.
+Ne pas oublier que les adjectifs dérivés de ces noms s'écrivent, comme tout adjectif, en bas de casse : *l'art mérovingien, la monarchie capétienne*.
+
 
 <a id='t3-2'/>
-
 
 ## Saints
 
@@ -111,8 +129,7 @@ En revanche, il prend une majuscule lorsqu'il compose un **vocable** : *la cons
 **NB** : un trait d'union relie les parties d'un vocable.
 
 
-<a id='t3-4'/>
-
+<a id='t3-3'/>
 
 ## Personnages bibliques
 
@@ -133,29 +150,24 @@ etc.*
 
 <a id='t4'/>
 
-
 # Arts et lettres
 
 
-
-
+<a id='t4-1'/>
 
 ## Œuvres littéraires
 
 
-<a id='t5-1'/>
-
+<a id='t4-1-1'/>
 
 ### Titres authentiques
 
-Le titre d'une œuvre littéraire doit être écrit en **italique** (ou souligné dans une composition manuscrite) :
+Le titre d'une œuvre littéraire doit être écrit en **italique** (ou souligné dans une composition manuscrite) :
 
 > J'ai lu les *Confessions* de saint Augustin<!--biblissima et DataBNF-->.
 
 
-
-<a id='t5-2'/>
-
+<a id='t4-1-2'/>
 
 ### Titres forgés
 
@@ -168,8 +180,7 @@ C'est le cas de la Bible et des **livres bibliques** en général :
  J'ai lu l'Histoire ancienne jusqu'à César.
 
 
-<a id='t6'/>
-
+<a id='t4-2'/>
 
 ## Styles artistiques
 
@@ -178,15 +189,17 @@ Les noms de styles s'écrivent en bas de casse :
 > J'étudie l'art roman, l'art insulaire, l'art mosan, etc.
 
 <!--
-En anglais, les adjectifs de style prennent une maj. :
+En anglais, les adjectifs de style prennent une maj. :
 *Romanesque art*
-Cf. *The Oxford Dictionary of the Middle Ages*.
+Cf. *The Oxford Dictionary of the Middle Ages*.
 -->
 
 
+<a id='t4-3'/>
+
 ## Œuvres d'art
 
-Les titres des œuvres d'**art moderne et contemporain** sont considérés comme des titres authentiques : ils doivent être écrits en italique (ou soulignés dans une composition manuscrite).
+Les titres des œuvres d'**art moderne et contemporain** sont considérés comme des titres authentiques : ils doivent être écrits en italique (ou soulignés dans une composition manuscrite).
 
 > J'étudie *Les époux Arnolfini* de Jan Van Eyck<!--databnF-->.\
  J'étudie *La Vierge aux rochers* de Léonard de Vinci<!--databnF-->.
@@ -199,7 +212,7 @@ Les substantifs entrant dans la composition du nom d'une œuvre d'art prennent u
 
 > J'étudie le Livre de Kells.\
  J'étudie le Psautier de Stuttgart.\
- J'étudie l'Émail plantagenêt<!--convention non suivie sur le web : j'imagine que plantagenêt est ici un adj., il faut donc le mettre en bas de casse-->.
+ J'étudie l'Émail plantagenêt<!--convention non suivie sur le web : j'imagine que plantagenêt est ici un adj., il faut donc le mettre en bas de casse-->.
 
 En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis, les substantifs restent en bas de casse :
 
@@ -210,6 +223,8 @@ En revanche, s'ils ne constituent pas un nom d'œuvre conventionnellement admis,
 **NB** : Dans les derniers cas, bible et évangile ne désignent pas des œuvres littéraires, mais des objets physiques.
 Ils s'écrivent donc sans majuscule.
 
+
+<a id='t4-4'/>
 
 ## Lieux de culte
 
@@ -223,10 +238,11 @@ On n'écrit pas *l'abbaye de Saint-Denis conserve les tombeaux des rois de Franc
 
 > L'abbaye Saint-Denis conserve les tombeaux des rois de France.
 
-<a id='t10'/>
 
 <!--
 
+
+<a id='t5'/>
 
 # Ressources
 
