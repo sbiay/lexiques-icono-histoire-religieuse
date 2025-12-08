@@ -54,7 +54,7 @@ Les noms de périodes prennent une majuscule : *l'Antiquité tardive ; le Moye
 
 L'ajout d'un qualificatif se fait sans majuscule : *le haut Moyen Âge ; l'Antiquité tardive*.
 
-**Les siècles** doivent être écrits en chiffres romains. *Le IV<sup>e</sup>sup> siècle commence en l'an 301 et s'achève en l'an 400*.
+**Les siècles** doivent être écrits en chiffres romains. *Le IV<sup>e</sup> siècle commence en l'an 301 et s'achève en l'an 400*.
 
 
 <a id='t1-2'/>
