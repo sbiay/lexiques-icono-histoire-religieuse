@@ -12,6 +12,12 @@ urlcolor: blue
 
 <a id='t1'/>
 
+Vocabulaire typographique :
+
+- **bas de casse** : lettre minuscule ; opposé à capitale. En typographie, partie inférieure de la casse (casiers contenant les différents caractères typographiques) contenant les caractères courants ;
+
+- **romain** : caractère à traits perpendiculaires à la ligne de base (s'oppose à italique)<note info="robert"/>.
+
 
 # Temps et histoire
 
