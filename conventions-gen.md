@@ -142,7 +142,7 @@ Ne pas oublier que les adjectifs dérivés de ces noms s'écrivent, comme tout a
 Le mot *saint* ne prend pas de majuscule lorsqu'il qualifie une personne : *l'Évangile selon saint Matthieu*.
 En revanche, il prend une majuscule lorsqu'il compose un **vocable** : *la construction de l'église Saint-Pierre*.
 
-**NB** : un trait d'union relie les parties d'un vocable.
+**NB** : un trait d'union relie les parties d'un vocable en français, mais pas dans les langues étrangères : *chiesa San Pietro, Saint Peter's church, Sankt Peters's Kirche*.
 
 
 <a id='t3-4'/>
