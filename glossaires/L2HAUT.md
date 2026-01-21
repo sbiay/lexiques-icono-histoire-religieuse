@@ -1,5 +1,5 @@
 ---
-title: Glossaire d'iconographie et d'histoire religieuse médiévale
+title: Glossaire d'histoire de l'art médiéval
 author: Sébastien Biay
 lang: fr-FR
 ---
