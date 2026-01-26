@@ -173,7 +173,13 @@ fonte
 
 **cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
 
+***ciborium***, n. m. (lat. neutre) : baldaquin cantonné de colonnes qui surmonte l'autel majeur.
+
+**chancel**, n. m. : clôture de pierre, de bois ou de métal entourant le choeur ou le sanctuaire des églises.
+
 **chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
+
+**choeur**, n. m. : 
 
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
