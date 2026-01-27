@@ -205,6 +205,8 @@ fonte
 **épitaphe**, n. f. : inscription mise sur un tombeau pour rappeler le souvenir d'une personne morte.
 -->
 
+**confession**, n. f. : lieu où se trouvent les reliques d'un saint, la tombe d'un martyr<note info="CNRTL"/>.
+
 **hypogée**, n. m. : construction souterraine, généralement d'usage funéraire.
 
 <!--
