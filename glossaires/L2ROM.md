@@ -189,7 +189,7 @@ fonte
 
 **fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale, dans laquelle on peut pratiquer l'immersion complète du corps.
 
-**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église.
+**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église (messes, offices, sacrements).
 
 ***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
@@ -269,7 +269,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 **juif**, n. m. : adepte du judaïsme. S'écrit sans majuscule : *Le messie des juifs*. Mais le même mot désigne parfois l'ensemble d'un peuple, il prend alors une majuscule : *Les Juifs et les Romains* (une faute sur l'usage de la majuscule ne sera donc pas sanctionnée étant donné l'ambivalence de son usage). Antérieurement à leur installation en Judée (Israël et Cisjordanie actuels), on parle plutôt des Hébreux.
 -->
 
-**évêque**, n. m. : personne de rang le plus élevé de la hiérarchie ecclésiastique, chargé de l'administration d'un diocèse.
+**évêque**, n. m. : personne de rang le plus élevé de la hiérarchie ecclésiastique, chargé de l'administration d'un diocèse. Ne pas confondre le diocèse et l'évêché, qui comprend les paroisses directement placées sous l'autorité spirituelle de l'évêque et qui se limitent généralement à une cité, tandis que le diocèse englobe un territoire bien plus vaste.
 
 **laïc**, n. m. et adj. : personne n'appartenant pas au clergé. *Les laïcs, la société laïque*.
 
