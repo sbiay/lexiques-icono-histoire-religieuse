@@ -235,8 +235,6 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 -->
 
 
-**apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
-
 **apocryphe**, adj. : qualifie un texte religieux dont l'Église ne reconnaît pas l'origine divine ; par opposition aux textes du canon de la Bible.
 
 <!--
@@ -304,9 +302,11 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 <a id='t4-2'/>
 
-## Personnages, créatures, lieux
+## Personnages, créatures, lieux, évènements
 
 *Ne sont listés que les noms pouvant présenter des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
+
+**apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
 **Abel** : fils d'Adam, assassiné par son frère Caïn (Gn).
 
@@ -331,6 +331,8 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 **Moïse** : patriarche ayant conduit les Hébreux d'Égypte à Canaan. Dieu scelle avec lui son alliance en lui confiant la Loi sous la forme de tables de pierre.
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
+
+**parousie**, n. f. : retour glorieux du Christ sur terre, à la fin des temps. Littéralement : présence, arrivée, venue<note info="CNRTL"/>. Syn. seconde parousie (la première étant l'incarnation).
 
 **Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme symbole des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe*, qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre espèces animales, comme dans les Évangiles de Trèves ([\color{blue}\underline{ici}](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg)).\color{black}
 
