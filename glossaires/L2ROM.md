@@ -139,6 +139,8 @@ fonte
 
 <!--**synagogue**, n. f. : lieu de culte juif.-->
 
+**oratoire**, n. m. : lieu aménagé pour la prière ; à distinguer de la chapelle, qui comporte un autel et peut donc accueillir la liturgie de la messe.
+
 **vocable**, n. m. : à propos d'une église, personne sous la protection (sous le « patronage ») de laquelle est placée l'église. *L'église Saint-Pierre*.
 
 
