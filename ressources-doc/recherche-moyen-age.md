@@ -16,8 +16,8 @@ Classement par pertinence.
 
 ## International Medieval Bibliography
 
-- Type d'accès : consultable avec le [Pass BnF lecture/culture](https://www.bnf.fr/fr/pass-bnf-lecture-culture) payant (15€/an)
-- Lien : [apps-brepolis-net.bnf.idm.oclc.org](https://apps-brepolis-net.bnf.idm.oclc.org/brebibmb/)
+- Type d'accès : consultable via [Nantilus](https://nantilus.univ-nantes.fr/vufind/Record/32118-1000163984-26427751)
+- Lien : [apps-brepolis-net.bunantes.idm.oclc.org](https://apps-brepolis-net.bunantes.idm.oclc.org/brebibmb/)
 - Caractéristiques : moins complet que RI OPAC, mais indexation thématique très riche et par disciplines
 
 
