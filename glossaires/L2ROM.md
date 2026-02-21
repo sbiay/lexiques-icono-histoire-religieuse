@@ -126,16 +126,21 @@ fonte
 
 ## Institutions
 
-**abbaye**, n. f. : établissement religieux placé sous la direction d'un abbé ou d'une abbesse.
+**abbaye**, n. f. : établissement religieux placé sous la direction d'un abbé ou d'une abbesse. Elle abrite généralement une communauté monastique, mais on parle aussi d'abbaye de chanoines.
 
-**collégiale**, n. f. : église qui, sans être le siège de l'autorité épiscopale, possède cependant un chapitre de chanoines<note info="CNRTL"/>.
+**diocèse**, n. m. : circonscription ecclésiastique d'ampleur régionale placée sous l'autorité d'un évêque. Les diocèses sont regroupés en provinces ecclésiastiques, placées sous l'autorité d'un archevêque. Par exemple, le diocèse de Nantes appartient à la province ecclésiastique de Tours.
 
+**évêché**, n. m. : ensemble des paroisses directement placées sous l'autorité de l'évêque et qui se limitent généralement à une cité.
 
 <a id='t3-1'/>
 
 ## Lieux de culte
 
+**abbatiale**, n. f. : église principale d'un monastère.
+
 **baptistère**, n. m. : édifice dévolu au baptême chrétien.
+
+**collégiale**, n. f. : église qui, sans être le siège de l'autorité épiscopale, possède cependant un chapitre de chanoines<note info="CNRTL"/>.
 
 <!--**synagogue**, n. f. : lieu de culte juif.-->
 
