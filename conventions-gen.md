@@ -148,7 +148,7 @@ En revanche, il prend une majuscule lorsqu'il compose un **vocable** : *la cons
 <a id='t3-4'/>
 
 
-## Personnages bibliques
+## Personnages et créatures bibliques
 
 Les substantifs de la liste suivante prennent une majuscule :
 
@@ -158,10 +158,12 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
 - Vivants, pour les symboles des évangélistes.
 
-En revanche, les substantifs désignant la plupart des personnages bibliques s'écrivent en bas de casse :
-*apôtres,
+En revanche, les substantifs désignant la plupart des personnages et créatures bibliques s'écrivent en bas de casse :
+*agneau,
+apôtres,
 évangélistes,
 prophètes,
+vieillards de l'Apocalypse,
 etc.*
 
 
