@@ -81,7 +81,7 @@ Plan :
 
 **pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
 
-Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : [codicologia.irht.cnrs.fr](http://codicologia.irht.cnrs.fr/).
+Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : [codicologia.irht.cnrs.fr](http://codicologia.irht.cnrs.fr/).
 
 
 <a id='t2-3'/>
@@ -103,7 +103,7 @@ Bég. Dessin 1978, d'après CNRTL.
 
 ## Sculpture
 
-**méplat**, n. m. et adj. : sculpture en très faible relief.
+**méplat**, n. m. et adj. : sculpture en très faible relief.
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
 
@@ -128,23 +128,23 @@ fonte
 
 **abbaye**, n. f. : établissement religieux placé sous la direction d'un abbé ou d'une abbesse. Elle abrite généralement une communauté monastique, mais on parle aussi d'abbaye de chanoines.
 
-**diocèse**, n. m. : circonscription ecclésiastique d'ampleur régionale placée sous l'autorité d'un évêque. Les diocèses sont regroupés en provinces ecclésiastiques, placées sous l'autorité d'un archevêque. Par exemple, le diocèse de Nantes appartient à la province ecclésiastique de Tours.
+**diocèse**, n. m. : circonscription ecclésiastique d'ampleur régionale placée sous l'autorité d'un évêque. Les diocèses sont regroupés en provinces ecclésiastiques, placées sous l'autorité d'un archevêque. Par exemple, le diocèse de Nantes appartient à la province ecclésiastique de Tours.
 
-**évêché**, n. m. : ensemble des paroisses directement placées sous l'autorité de l'évêque et qui se limitent généralement à une cité.
+**évêché**, n. m. : ensemble des paroisses directement placées sous l'autorité de l'évêque et qui se limitent généralement à une cité.
 
 <a id='t3-1'/>
 
 ## Lieux de culte
 
-**abbatiale**, n. f. : église principale d'un monastère.
+**abbatiale**, n. f. : église principale d'un monastère.
 
 **baptistère**, n. m. : édifice dévolu au baptême chrétien.
 
-**collégiale**, n. f. : église qui, sans être le siège de l'autorité épiscopale, possède cependant un chapitre de chanoines<note info="CNRTL"/>.
+**collégiale**, n. f. : église qui, sans être le siège de l'autorité épiscopale, possède cependant un chapitre de chanoines<note info="CNRTL"/>.
 
 <!--**synagogue**, n. f. : lieu de culte juif.-->
 
-**oratoire**, n. m. : lieu aménagé pour la prière ; à distinguer de la chapelle, qui comporte un autel et peut donc accueillir la liturgie de la messe.
+**oratoire**, n. m. : lieu aménagé pour la prière ; à distinguer de la chapelle, qui comporte un autel et peut donc accueillir la liturgie de la messe.
 
 **vocable**, n. m. : à propos d'une église, personne sous la protection (sous le « patronage ») de laquelle est placée l'église. *L'église Saint-Pierre*.
 
@@ -166,6 +166,8 @@ fonte
 
 ## Liturgie
 
+**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église (messes, offices, sacrements).
+
 <!--
 
 **affusion**, n. f. : action de verser un liquide sur un corps quelconque. *Le baptême par affusion remplace le baptême par immersion*.
@@ -178,15 +180,15 @@ fonte
 
 **catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
 
-**cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
+**cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
 
-***ciborium***, n. m. (lat. neutre) : baldaquin cantonné de colonnes qui surmonte l'autel majeur.
+***ciborium***, n. m. (lat. neutre) : baldaquin cantonné de colonnes qui surmonte l'autel majeur.
 
-**chancel**, n. m. : clôture de pierre, de bois ou de métal entourant le choeur ou le sanctuaire des églises.
+**chancel**, n. m. : clôture de pierre, de bois ou de métal entourant le chœur ou le sanctuaire des églises.
 
 **chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
 
-**choeur**, n. m. : 
+**chœur**, n. m. : emplacement où se tiennent l'ensemble des religieux pour assister à la messe et à l'office, et d'où ils y participent par des chants et des psalmodies. Durant le haut Moyen Âge, le chœur est aménagé de bancs ; à partir du XI^e^-XII^e^ siècle, le mobilier devient permanent (parfois en pierre, il se généralise en bois sous la forme de stalles).
 
 **eucharistie**, n. f. : action de grâce sur le pain et le vin célébrant le sacrifice du Christ. C'est le rite central de la messe chrétienne. Désigne par extension le pain et le vin eux-mêmes une fois que l'action de grâce a été accomplie.
 
@@ -196,7 +198,7 @@ fonte
 
 **fonts baptismaux**, n. m. : bassin placé sur un support dans lequel se trouve l'eau bénite dont on se sert pour baptiser<note info="CNRTL"/>. Différent de la cuve baptismale, dans laquelle on peut pratiquer l'immersion complète du corps.
 
-**liturgie**, n. f. : ensemble ordonné des cérémonies et des prières composant le culte officiellement institué par l'Église (messes, offices, sacrements).
+**office**, n. m. : syn. liturgie des heures. Ensemble des prières, des chants (notamment les psaumes) et des lectures que les religieux doivent réciter ou chanter quotidiennement au chœur à des heures déterminées de la journée.
 
 ***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
@@ -212,7 +214,7 @@ fonte
 **épitaphe**, n. f. : inscription mise sur un tombeau pour rappeler le souvenir d'une personne morte.
 -->
 
-**confession**, n. f. : lieu où se trouvent les reliques d'un saint, la tombe d'un martyr<note info="CNRTL"/>.
+**confession**, n. f. : lieu où se trouvent les reliques d'un saint, la tombe d'un martyr<note info="CNRTL"/>.
 
 **hypogée**, n. m. : construction souterraine, généralement d'usage funéraire.
 
@@ -237,8 +239,8 @@ fonte
 ## Doctrine
 
 <!--
-**achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
-Variante graphique : acheiropoiète<note info="DHAM"/>
+**achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
+Variante graphique : acheiropoiète<note info="DHAM"/>
 -->
 
 
@@ -248,7 +250,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 **charisme**, n. m. : don surnaturel octroyé par Dieu à certains croyants (les apôtres, les saints).
 -->
 
-**chanoine**, n. m. : clerc faisant partie du chapitre d'une cathédrale ou d'une collégiale<note info="CNRTL"/>. Les chanoines appartiennent au clergé séculier (cf. *clergé*), mais à partir du X^e^ s. certaines communautés adoptent des *règles* de vie plus proches de la règle monastique de saint Benoît : les communautés de chanoines réguliers.
+**chanoine**, n. m. : clerc faisant partie du chapitre d'une cathédrale ou d'une collégiale<note info="CNRTL"/>. Les chanoines appartiennent au clergé séculier (cf. *clergé*), mais à partir du X^e^ s. certaines communautés adoptent des *règles* de vie plus proches de la règle monastique de saint Benoît : les communautés de chanoines réguliers.
 
 **chrétien**, n. m. : adepte du christianisme. **NB** : s'écrit sans majuscule : *les premiers chrétiens*.
 
@@ -282,7 +284,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **messie**, n. m. (he. *mashiah*, gr. *christos*) : littéralement celui qui a reçu une onction sacrée, symbole d'une mission d'origine divine. Les significations différent selon les textes de l'Ancien Testament : roi, prophète, grand prêtre. S'emploie avec une majuscule s'il est seul : *le Messie*. Sans majuscule avec un qualificatif : *le messie des juifs*.
 
-**moine**, n. m. : clerc ayant prononcé des voeux solennels et vivant cloîtré, selon la règle de son ordre.
+**moine**, n. m. : clerc ayant prononcé des voeux solennels et vivant cloîtré, selon la règle de son ordre.
 
 **néotestamentaire**, adj. : relatif au Nouveau Testament.
 <!--
@@ -309,7 +311,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 <a id='t4-2'/>
 
-## Personnages, créatures, lieux, évènements
+## Personnages, créatures, lieux, événements
 
 *Ne sont listés que les noms pouvant présenter des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
 
@@ -339,7 +341,9 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
 
-**parousie**, n. f. : retour glorieux du Christ sur terre, à la fin des temps. Littéralement : présence, arrivée, venue<note info="CNRTL"/>. Syn. seconde parousie (la première étant l'incarnation).
+**parousie**, n. f. : retour glorieux du Christ sur terre, à la fin des temps. Littéralement : présence, arrivée, venue<note info="CNRTL"/>. Syn. seconde parousie (la première étant l'incarnation).
+
+**vieillard de l'Apocalypse**, n. m. : personnage appartenant à un collège de vingt-quatre siégeant auprès du Fils de l'homme aux chapitres 4 et 5 de l'Apocalypse. Ils célèbrent son règne par des louanges et des cantiques. Le Christ en majesté entouré des Vivants et des vieillards délivre une image de l'Église céleste dans le temps présent (entre l'ascension du Christ et la seconde parousie).
 
 **Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme symbole des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe*, qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre espèces animales, comme dans les Évangiles de Trèves ([\color{blue}\underline{ici}](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg)).\color{black}
 
