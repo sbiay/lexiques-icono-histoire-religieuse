@@ -84,6 +84,21 @@ Plan :
 Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : [codicologia.irht.cnrs.fr](http://codicologia.irht.cnrs.fr/).
 
 
+## Orfèvrerie
+
+**camée**, n. m. : pierre fine que l'on sculpte en relief pour mettre en valeur ses couches diversement colorées.
+
+**cabochon**, n. m. : pierre précieuse ou semi-précieuse polie mais non taillée, de forme sphèrique ou ovoïde.
+
+**chaton**, n. m. : pièce métallique ayant une partie creuse où l'on fixe une pierre ou un décor émaillé.
+
+**émail**, n. m. : vernis constitué d'un produit vitreux, coloré, fondu, puis solidifié. *Émail cloisonné* : réalisé par ajout de pièces métalliques pour tracer les coutours d'un décor. *Émail champlevé* : émail dont la platine a préalablement été creusée (champlèvement) selon la forme du dessin pour y appliquer le vernis coloré à la plume.
+
+**filigrane**, n. m. : décor fait de fils métalliques entrelacés et soudés à une platine (pièce métallique de surface plane).
+
+**intaille**, n. f. : pierre précieuse ou pierre dure gravée en creux.
+
+
 <a id='t2-3'/>
 
 ## Peinture
@@ -106,17 +121,6 @@ Bég. Dessin 1978, d'après CNRTL.
 **méplat**, n. m. et adj. : sculpture en très faible relief.
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
-
-<!--
-
-
- ## Orfèvrerie
-
-fonte
-
-**émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
-
--->
 
 
 <a id='t3'/>
