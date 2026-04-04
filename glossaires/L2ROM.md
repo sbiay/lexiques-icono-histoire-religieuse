@@ -159,6 +159,8 @@ Bég. Dessin 1978, d'après CNRTL.
 
 <!--ajouter abside, cul de four, sanctuaire-->
 
+**arcade**, n. f. : organe architectural constitué de deux supports (piliers ou colonnes) reliés par un arc. Ne pas confondre avec une arche, qui désigne une voûte ayant la forme d'un arc (pont, arc de triomphe).
+
 **chapiteau**, n. m. : partie supérieure d'un support architectural, de forme évasée, présentant généralement une ornementation.
 
 **colonne**, n. f. : support vertical de forme cylindrique généralement de pierre ou de marbre composé d'un fût, d'un chapiteau et d'une base.

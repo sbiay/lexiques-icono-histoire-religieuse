@@ -156,6 +156,7 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Mages, seulement lorsqu'il est employé seul : *l'adoration des Mages*<!--@beaudCesRoisMages2022--> ;
 - Rois mages<!--@beaudCesRoisMages2022--> ;
 - Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
+- Vierge à l'Enfant<note info="CNRTL"/> ;
 - Vivants, pour les symboles des évangélistes.
 
 En revanche, les substantifs désignant la plupart des personnages et créatures bibliques s'écrivent en bas de casse :
