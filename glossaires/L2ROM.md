@@ -208,6 +208,10 @@ Bég. Dessin 1978, d'après CNRTL.
 
 ***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
+**trope**, n. m. : phrase poétique et musicale insérée dans un chant liturgique, destinée à embellir la liturgie, à en augmenter la solennité et la portée spirituelle. 
+
+**séquence**, n. f. : extension du chant de l'Alléluia lors de la messe, interprétée par plusieurs chanteurs ou groupes de chanteurs.
+
 
 <a id='t3-4'/>
 
