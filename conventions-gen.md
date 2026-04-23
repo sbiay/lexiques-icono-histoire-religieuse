@@ -155,6 +155,7 @@ Les substantifs de la liste suivante prennent une majuscule :
 - Innocents : *le massacre des Innocents* ;
 - Mages, seulement lorsqu'il est employé seul : *l'adoration des Mages*<!--@beaudCesRoisMages2022--> ;
 - Rois mages<!--@beaudCesRoisMages2022--> ;
+- Sainte Famille<note info="CNRTL"/> ; 
 - Saintes Femmes : *la visite des Saintes Femmes au tombeau*<!--iconclass ; @poilpreRepresentationsCarolingiennesOttoniennes2022 ; biblissima avec un doute sur la maj initiale ; autres graphies : saintes-femmes dans @beaudCesRoisMages2022, p. 149--> ;
 - Vierge à l'Enfant<note info="CNRTL"/> ;
 - Vivants, pour les symboles des évangélistes.

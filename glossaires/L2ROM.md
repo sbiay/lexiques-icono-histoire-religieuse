@@ -86,7 +86,7 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muz
 
 ## Orfèvrerie
 
-**camée**, n. m. : pierre fine que l'on sculpte en relief pour mettre en valeur ses couches diversement colorées.
+**camée**, n. m. : pierre fine que l'on sculpte en relief pour mettre en valeur ses couches diversement colorées. Fréquemment remployés dans les pièces d'orfèvrerie.
 
 **cabochon**, n. m. : pierre précieuse ou semi-précieuse polie mais non taillée, de forme sphèrique ou ovoïde.
 
@@ -96,22 +96,19 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muz
 
 **filigrane**, n. m. : décor fait de fils métalliques entrelacés et soudés à une platine (pièce métallique de surface plane).
 
-**intaille**, n. f. : pierre précieuse ou pierre dure gravée en creux.
+**intaille**, n. f. : pierre précieuse ou pierre dure gravée en creux. Fréquemment remployées dans les pièces d'orfèvrerie.
 
 
 <a id='t2-3'/>
 
 ## Peinture
 
-**enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
+**enluminure**, n. f. : ornementation et images peintes en couleur dans un manuscrit. Éviter *miniature*, parfois employé comme synonyme. Privilégier le terme *dessin* lorsque le décor d'un manuscrit est fait à l'encre sans couleur.
 
 **mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
 
-<!--
-**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
+**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe<note info="Beg_Dessin_1978_d_apres_CNRTL"/>.
 
-Bég. Dessin 1978, d'après CNRTL.
--->
 
 
 <a id='t2-4'/>
