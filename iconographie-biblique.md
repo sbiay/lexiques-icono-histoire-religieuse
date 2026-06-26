@@ -79,6 +79,10 @@ date: 2^nd^ semestre 2023-2024
 **mandorle**, n. f. (ital. *mandorla*) : figure géométrique en forme d'amande entourant généralement le Christ en majesté. Par extension, toute forme géométrique (circulaire, en 8, etc.) entourant le Christ en majesté ou des saints.
 
 **nimbe**, n. m. : cercle lumineux dont les artistes entourent généralement la tête de Dieu et des saints. *Nimbe crucifère*, attribut du Christ, présentant la forme de la croix. Synonyme : auréole.
+<!--
+Bon article :
+https://www-oxfordreference-com.bnf.idm.oclc.org/display/10.1093/acref/9780199545568.001.0001/acref-9780199545568-e-4427?rskey=PSSNQX&result=6
+-->
 
 **phylactère**, n m. : rouleau ouvert portant ou suggérant les paroles prononcées par un personnage.
 
