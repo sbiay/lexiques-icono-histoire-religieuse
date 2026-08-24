@@ -36,3 +36,12 @@ Classement par pertinence.
 - Lien : [theindex.princeton.edu](https://theindex.princeton.edu/)
 - Caractéristiques : plus ancienne base de données d'art chrétien, centrée sur le Moyen Age latin et byzantin, mais s'ouvrant de plus en plus aux autres civilisations. Indexation thématique très fine, qualité des reproductions faible.
 
+# Dictionnaires et encyclopédies
+
+## Dictionnaire d'archéologie chrétienne et de liturgie
+
+- Référence complète : *Dictionnaire d’archéologie chrétienne et de liturgie*, dir. Fernand Cabrol et Henri Leclercq, 30 vol., Paris, Letouzey et Ané, 1924-1953.
+- Type d'accès : libre et gratuit
+- Lien : certains volumes sont reproduits sur [gallica.bnf.fr](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&collapsing=disabled&rk=85837;2&query=dc.relation%20all%20%22cb37011748q%22%20sortby%20dc.title%2Fsort.ascending), les autres sur [archive.org](https://archive.org/details/texts?tab=collection&query=Dictionnaire+d'arch%C3%A9ologie+chr%C3%A9tienne+et+de+liturgie)
+- Caractéristiques : encyclopédie déjà ancienne mais dont les articles extrêmement fouillés constituent une entrée indispensable pour l'histoire d'un saint ou d'un rite.
+
