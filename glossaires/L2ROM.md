@@ -2,6 +2,7 @@
 title: Glossaire d'histoire de l'art médiéval
 author: Sébastien Biay
 lang: fr-FR
+urlcolor: blue
 ---
 
 Plan :
