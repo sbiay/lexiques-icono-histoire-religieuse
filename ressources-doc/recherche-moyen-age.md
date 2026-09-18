@@ -28,6 +28,7 @@ Classement par pertinence.
 - Caractéristiques : bibliographie d'histoire de l'art non spécialisée en Moyen Âge, mais très riche et avec indexation thématique
 - Conseils d'utilisation : pour exploiter pleinement Kubikat, éviter la recherche simple ; faire des recherches avancées en cliquant sur **kubikat + Discovery**
 
+
 # Bases de données iconographiques
 
 ## Index of Medieval Art
