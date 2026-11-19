@@ -36,8 +36,6 @@ Plan :
 **Moyen Âge** : période située entre l'Antiquité et la Renaissance, ou plus précisément entre la fin de l'empire romain (476) et le milieu du XV^e^ siècle, marqué par la chute de Constantinople (1453), la fin de la présence musulmane en Espagne (1491) et le début de la colonisation des « Indes occidentales » (1492). **NB** : s'écrit désormais sans trait d'union.
 
 <!--
-
-
  # Domaines scientifiques
 
 
@@ -55,24 +53,29 @@ Plan :
 
 # Techniques artistiques
 
+**enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
 
-<a id='t2-1'/>
-
-## Terminologie générale
+**mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
 
 **orfèvrerie**, n. f. : fabrication d'objets de parure ou de décoration en métaux précieux finement travaillés ; art de fabriquer de tels objets<note info="CNRTL"/>.
 
+<!--
+**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
+
+Bég. Dessin 1978, d'après CNRTL.
+
 **toreutique**, n. f. : art de travailler en relief (ciseler, graver, sculpter) les matières dures telles que les métaux, l'ivoire, le bois, le marbre, etc.<note info="CNRTL"/>
+-->
+
+**émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
 
 
 <a id='t2-2'/>
 
-## Enluminure et codicologie
+## Enluminure
 
 <!--
-
 **dérelier**, v. : démonter la reliure d'un manuscrit pour le démembrer, remanier ses cahiers ou le restaurer<note info="differentes-ressources-bnf-enssib"/>.
-
 -->
 
 **frontispice**, n. m. : enluminure à pleine page placée en regard de l'incipit d'un texte ou, plus rarement, incluant cet incipit<note info="Composition libre à partir de muzerelleCodicologica et du Robert"/>.
@@ -81,42 +84,18 @@ Plan :
 
 **pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
 
-Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
-
-
-<a id='t2-3'/>
-
-## Peinture
-
-**enluminure**, n. f. : peinture de manuscrit. Éviter *miniature*, parfois employé comme synonyme.
-
-**mosaïque**, n. f. : technique de peinture par assemblage de tesselles (n. f.), petites pièces rapportées multicolores (pierre, marbre, pâte de verre, etc.).
-
 <!--
-**tempéra**, n. f. : technique de peinture utilisant comme agglutinant du blanc ou du jaune d'œuf. Synonyme : détrempe.
-
-Bég. Dessin 1978, d'après CNRTL.
+Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
 -->
 
-
-<a id='t2-4'/>
-
+<!--
 ## Sculpture
 
 **méplat**, n. m. et adj. : sculpture en très faible relief.
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
-
-<!--
-
-
- ## Orfèvrerie
-
-fonte
-
-**émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
-
 -->
+
 
 
 <a id='t3'/>
@@ -142,9 +121,12 @@ fonte
 
 <a id='t3-2'/>
 
+
 ## Éléments architecturaux
 
 <!--ajouter abside, cul de four, sanctuaire-->
+
+**abside**, n. f. : partie d'une église de plan arrondi ou polygonal située à son extrémité.
 
 **chapiteau**, n. m. : partie supérieure d'un support architectural, de forme évasée, présentant généralement une ornementation.
 
@@ -187,25 +169,21 @@ fonte
 
 
 <a id='t3-4'/>
+<!--
 
 ## Monuments funéraires
 
-<!--
 
 ***arcosolium***, n. m. (lat.) : niche surmontée d'une voûte et flanquée de colonnes, servant de lieu d'inhumation ou de mobilier liturgique.
 
 **épitaphe**, n. f. : inscription mise sur un tombeau pour rappeler le souvenir d'une personne morte.
--->
 
 **hypogée**, n. m. : construction souterraine, généralement d'usage funéraire.
 
-<!--
 ***loculus***, n. m. (pl. *loculi*) : niche, emplacement réservé à un corps dans une catacombe.
--->
 
 **mausolée**, n. m. : monument funéraire grandiose, somptueux, ayant la taille d'un véritable édifice, destiné à recevoir la dépouille d'un personnage puissant et éventuellement celles des personnes de sa famille.
 
-<!--
 **stèle**, n. f. : monument monolithe ayant souvent la forme d'une dalle placée en position verticale, parfois orné de sculptures ou de peintures, sur lequel sont gravées des inscriptions parfois commémoratives. Elles sont également employées dans d'autres contextes que funéraire (événements politiques, textes législatifs).
 -->
 
@@ -219,11 +197,8 @@ fonte
 
 ## Doctrine
 
-<!--
 **achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
 Variante graphique : acheiropoiète<note info="DHAM"/>
--->
-
 
 **apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
@@ -263,13 +238,17 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **Loi**, n. f. avec une maj. : commandements et institutions écrits dans le Pentateuque et donnés par Dieu à son peuple par l'intermédiaire de Moïse ; par métonymie, l'Ancien Testament.
 
+<!--
 **messie**, n. m. (he. *mashiah*, gr. *christos*) : littéralement celui qui a reçu une onction sacrée, symbole d'une mission d'origine divine. Les significations différent selon les textes de l'Ancien Testament : roi, prophète, grand prêtre. S'emploie avec une majuscule s'il est seul : *le Messie*. Sans majuscule avec un qualificatif : *le messie des juifs*.
+-->
 
 **néotestamentaire**, adj. : relatif au Nouveau Testament.
+
 <!--
-**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien.-->
 
 **patriarche**, n. m. : personnage de l'Ancien Testament, ancêtre des tribus d'Israël, d'une grande longévité. Abraham, Jacob, Joseph, Moïse principalement. La définition est souple : on trouve parfois que la lignée des patriarches commence avec Adam.
+
+**orant, orante**, n. : du lat. *orare*, prier ; personnage représenté en prière, les bras étendus, dans l'art romain et paléochrétien.-->
 
 **péché**, n. m. : acte libre par lequel l'homme, en faisant le mal, refuse d'accomplir la volonté de Dieu, se séparant ainsi de Lui. *Le péché originel*.
 
@@ -296,6 +275,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 *Ne sont listés que les noms pouvant présenter des difficultés orthographiques ou typographiques ; pour les autres personnages bibliques, se reporter aux notices de* la Bible et les saints.
 
+<!--
 **Abel** : fils d'Adam, assassiné par son frère Caïn (Gn).
 
 **Abraham** : patriarche majeur de l'Ancien Testament.
@@ -303,6 +283,7 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 **Bethléem** : lieu de naissance de David et de Jésus selon les évangélistes Mt, Lc et Jn.
 
 **Caïn** : fils d'Adam, meurtrier de son frère Abel (Gn).
+-->
 
 **Dieu** : en tant que nom propre, il faut l'écrire avec une majuscule.
 
@@ -316,9 +297,11 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **Melchisédech** : roi-prêtre célébrant devant Abraham une bénédiction avec le pain et le vin, prototype de la messe chrétienne ; Abraham lui verse la dîme, redevance des laïcs à l'Église.
 
+<!--
 **Moïse** : patriarche ayant conduit les Hébreux d'Égypte à Canaan. Dieu scelle avec lui son alliance en lui confiant la Loi sous la forme de tables de pierre.
 
 **Nazareth** : ville de Galilée, lieu de résidence des parents de Jésus.
+-->
 
 **Vivant**, n. m. : créature décrite en Éz 1, 1-28 et Ap 4, 6-7, interprétée comme symbole des évangélistes (Irénée de Lyon, Jérôme de Stridon). *Les quatre Vivants*. On les désigne parfois sous l'appellation de *tétramorphe*, qu'il faut pourtant réserver à des représentations très particulières et rares, lorsqu'une seule créature fantastique réunit les quatre espèces animales, comme dans les Évangiles de Trèves, [ici](https://fr.m.wikipedia.org/wiki/Fichier:Evangeliar_aus_Trier_-_Der_Tetramorph.jpg).
 
@@ -337,4 +320,6 @@ Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **phylactère**, n. m. : rouleau ouvert portant ou suggérant les paroles prononcées par un personnage.
 
+<!--
 **registre**, n. m. : par analogie avec la musique (registre grave, médium ou aigu), partie d'une image que l'on peut subdiviser dans le sens vertical. *Registre supérieur, registre médian, registre inférieur*.
+-->
