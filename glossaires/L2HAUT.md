@@ -76,7 +76,7 @@ Bég. Dessin 1978, d'après CNRTL.
 
 **frontispice**, n. m. : enluminure à pleine page placée en regard de l'incipit d'un texte ou, plus rarement, incluant cet incipit<note info="Composition libre à partir de muzerelleCodicologica et du Robert"/>.
 
-**incipit**, n. m. : premiers mots d'un texte.
+**incipit**, n. m. : premiers mots d'un texte ; devient dans le monde insulaire du VII^e^ siècle un lieu privilégié du décor du livre par l'ornementation des lettres.
 
 **pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
 
