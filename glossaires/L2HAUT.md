@@ -9,15 +9,11 @@ Plan :
 
 1. [Périodes historiques](#t1)
 2. [Techniques artistiques](#t2)
-	1. [Terminologie générale](#t2-1)
-	2. [Enluminure et codicologie](#t2-2)
-	3. [Peinture](#t2-3)
-	4. [Sculpture](#t2-4)
+	1. [Enluminure : termes spécifiques](#t2-1)
 3. [Architecture, mobilier et institutions](#t3)
 	1. [Lieux de culte](#t3-1)
 	2. [Éléments architecturaux](#t3-2)
 	3. [Liturgie](#t3-3)
-	4. [Monuments funéraires](#t3-4)
 4. [Histoire, doctrine et images chrétiennes](#t4)
 	1. [Doctrine](#t4-1)
 	2. [Personnages, créatures, lieux](#t4-2)
@@ -70,9 +66,9 @@ Bég. Dessin 1978, d'après CNRTL.
 **émail**, n. m. : vernis constitué par un produit vitreux, coloré, fondu, puis solidifié, dont on recouvre certains objets pour les protéger ou les rendre brillants. *Objets émaillés, technique de l'émaillage*. Émail cloisonné : réalisé par ajout de pièces métalliques pour tracer les coutours. Émail champlevé : émail dont la platine a préalablement été creusée selon la forme du dessin pour y appliquer les couleurs à la plume.
 
 
-<a id='t2-2'/>
+<a id='t2-1'/>
 
-## Enluminure
+## Enluminure : termes spécifiques
 
 <!--
 **dérelier**, v. : démonter la reliure d'un manuscrit pour le démembrer, remanier ses cahiers ou le restaurer<note info="differentes-ressources-bnf-enssib"/>.
@@ -85,17 +81,17 @@ Bég. Dessin 1978, d'après CNRTL.
 **pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
 
 <!--
-Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
+Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
 -->
 
 <!--
-## Sculpture
 
-**méplat**, n. m. et adj. : sculpture en très faible relief.
+ ## Sculpture
+
+**méplat**, n. m. et adj. : sculpture en très faible relief.
 
 **ronde-bosse**, n. f. : sculpture en relief, qui se détache du fond (et autour de laquelle on peut tourner)<note info="Robert"/>.
 -->
-
 
 
 <a id='t3'/>
@@ -121,12 +117,11 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 
 <a id='t3-2'/>
 
-
 ## Éléments architecturaux
 
 <!--ajouter abside, cul de four, sanctuaire-->
 
-**abside**, n. f. : partie d'une église de plan arrondi ou polygonal située à son extrémité.
+**abside**, n. f. : partie d'une église de plan arrondi ou polygonal située à son extrémité.
 
 **chapiteau**, n. m. : partie supérieure d'un support architectural, de forme évasée, présentant généralement une ornementation.
 
@@ -151,7 +146,7 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 
 **catéchèse**, n. f. : enseignement du mystère chrétien adressé aux catéchumènes dans l'Église ancienne<note info="CNRTL"/>.
 
-**cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
+**cathèdre**, n. f. : siège réservé à un évêque dans un lieu de culte (donne cathèdrale), ou à un abbé dans les différents bâtiments de l'abbaye qu'il dirige<note info="CNRTL"/>.
 
 **chasuble**, n. f. : vêtement utilisé pour célébrer la messe par les prêtres ; manteau couvrant les épaules et formant un V par devant, il se distingue par sa couleur (variable selon les moments du calendrier liturgique).
 
@@ -168,10 +163,10 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 ***pallium***, n. m. : écharpe blanche portée par les évêques, formant généralement un Y sur la poitrine.
 
 
-<a id='t3-4'/>
 <!--
 
-## Monuments funéraires
+
+ ## Monuments funéraires
 
 
 ***arcosolium***, n. m. (lat.) : niche surmontée d'une voûte et flanquée de colonnes, servant de lieu d'inhumation ou de mobilier liturgique.
@@ -197,8 +192,8 @@ Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muze
 
 ## Doctrine
 
-**achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
-Variante graphique : acheiropoiète<note info="DHAM"/>
+**achéiropoïète**, adj. : image d'origine miraculeuse<note info="Robert"/>.
+Variante graphique : acheiropoiète<note info="DHAM"/>
 
 **apôtre**, n. m. : nom donné aux douze disciples que Jésus-Christ chargea de prêcher l'Évangile.
 
