@@ -74,11 +74,11 @@ Bég. Dessin 1978, d'après CNRTL.
 **dérelier**, v. : démonter la reliure d'un manuscrit pour le démembrer, remanier ses cahiers ou le restaurer<note info="differentes-ressources-bnf-enssib"/>.
 -->
 
-**frontispice**, n. m. : enluminure à pleine page placée en regard de l'incipit d'un texte ou, plus rarement, incluant cet incipit<note info="Composition libre à partir de muzerelleCodicologica et du Robert"/>.
+**frontispice**, n. m. : enluminure à pleine page placée en regard de l'incipit d'un texte ou, plus rarement, incluant cet incipit<note info="Composition libre à partir de muzerelleCodicologica et du Robert"/>. *Une page frontispice*.
 
-**incipit**, n. m. : premiers mots d'un texte ; devient dans le monde insulaire du VII^e^ siècle un lieu privilégié du décor du livre par l'ornementation des lettres.
+**incipit**, n. m. : premiers mots d'un texte ; devient dans le monde insulaire du VII^e^ siècle un lieu privilégié du décor du livre par l'ornementation des lettres. *Une page d'incipit*.
 
-**pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Enluminure à pleine page*<note info="muzerelleCodicologica"/>.
+**pleine page (à)**, n. f. : qui occupe toute la surface de la page ou de la justification. *Une enluminure à pleine page*<note info="muzerelleCodicologica"/>.
 
 <!--
 Pour aller plus loin, voir la ressource de l'IRHT, *Codicologica*, dir. D. Muzerelle, 2011, URL : http://codicologia.irht.cnrs.fr/.
